@@ -1,0 +1,1648 @@
+,0
+0,16s ribosomal gene sequencing assay
+1,24 hour total urine volume assay
+2,24 hour urine creatinine assay
+3,24 hour urine protein assay
+4,"3,3',5'-triiodothyronine assay"
+5,"3,3',5'-triiodothyronine concentration assay"
+6,3-hydroxybutyric acid assay
+7,3D cell structure determination assay
+8,3D molecular structure determination assay
+9,3D molecular structure determination assay of a MHC:ligand complex
+10,3D molecular structure determination assay of a T cell epitope:MHC:TCR complex
+11,3D molecular structure determination assay of an antigen:antibody complex
+12,3D neural cell structure determination assay
+13,3D structure determination assay
+14,3D structure determination of bound molecular complex assay
+15,3H-thymidine assay measuring epitope specific proliferation of T cells
+16,5'-nucleotidase activity level assay
+17,51 chromium assay measuring epitope specific T cell killing
+18,96-well neutralization assay
+19,ABG/electrolytes arterial blood carbon dioxide assay
+20,ABG/electrolytes arterial blood ionized calcium assay
+21,ABG/electrolytes arterial blood oxygen assay
+22,ABL90 panel arterial blood bicarbonate assay
+23,ABL90 panel arterial blood calcium assay
+24,ABL90 panel arterial blood carbon dioxide assay
+25,ABL90 panel arterial blood chloride assay
+26,ABL90 panel arterial blood glucose assay
+27,ABL90 panel arterial blood hematocrit assay
+28,ABL90 panel arterial blood hemoglobin assay
+29,ABL90 panel arterial blood lactic acid assay
+30,ABL90 panel arterial blood methemoglobin assay
+31,ABL90 panel arterial blood oxygen assay
+32,ABL90 panel arterial blood potassium assay
+33,ABL90 panel arterial blood sodium assay
+34,ABL90 panel arterial blood temperature assay
+35,ABL90 panel venous blood bicarbonate assay
+36,ABL90 panel venous blood carbon dioxide assay
+37,ABL90 panel venous blood chloride assay
+38,ABL90 panel venous blood glucose assay
+39,ABL90 panel venous blood hematocrit assay
+40,ABL90 panel venous blood hemoglobin assay
+41,ABL90 panel venous blood ionized calcium assay
+42,ABL90 panel venous blood lactic acid assay
+43,ABL90 panel venous blood methemoglobin assay
+44,ABL90 panel venous blood oxygen assay
+45,ABL90 panel venous blood potassium assay
+46,ABL90 panel venous blood sodium assay
+47,ATP bioluminescence assay
+48,B cell epitope assay
+49,B cell receptor repertoire sequencing assay
+50,Bernoulli trial
+51,Biosite cardiac panel arterial blood creatine kinase MB assay
+52,BrdU assay measuring epitope specific proliferation of T cells
+53,BrdU incorporation assay
+54,C-reactive protein assay
+55,CBC venous blood RBC count assay
+56,CBC venous blood WBC count assay
+57,CBC venous blood hematocrit assay
+58,CBC venous blood hemoglobin assay
+59,CBC venous blood platelet count assay
+60,CBC with automated differential venous blood RBC count assay
+61,CBC with automated differential venous blood WBC count assay
+62,CBC with automated differential venous blood hematocrit assay
+63,CBC with automated differential venous blood hemoglobin assay
+64,CBC with automated differential venous blood nucleated RBC count assay
+65,CBC with automated differential venous blood platelet count assay
+66,CBC with manual differential venous blood WBC count assay
+67,CBC with manual differential venous blood band neutrophil count assay
+68,CBC with manual differential venous blood basophil count assay
+69,CBC with manual differential venous blood cell count assay
+70,CBC with manual differential venous blood eosinophil count assay
+71,CBC with manual differential venous blood lymphocyte count assay
+72,CBC with manual differential venous blood megakaryocyte count assay
+73,CBC with manual differential venous blood metamyelocyte count assay
+74,CBC with manual differential venous blood monocyte count assay
+75,CBC with manual differential venous blood myelocyte count assay
+76,CBC with manual differential venous blood neutrophil count assay
+77,CBC with manual differential venous blood nucleated RBC count assay
+78,CBC with manual differential venous blood plasma cell count assay
+79,CBC with manual differential venous blood promyelocyte count assay
+80,CBC with manual differential venous blood segmented neutrophil count assay
+81,CMCT structure mapping assay
+82,CMV antibody assay
+83,Carbon-copy chromosome conformation capture assay
+84,Cell DIVE multiplexed imaging assay
+85,Centre for Disease Control and Prevention bottle bioassay
+86,ChIP assay
+87,ChIP-chip assay
+88,ChIP-chip by SNP array assay
+89,ChIP-chip by tiling array assay
+90,ChIP-qPCR assay
+91,ChIP-seq assay
+92,DEPC structure mapping assay
+93,DMS structure mapping assay
+94,DNA adenine methyltransferase identification assay
+95,DNA based blood meal finger printing assay
+96,DNA fingerprinting assay
+97,DNA methylation profiling assay
+98,DNA methylation profiling by ChIP-chip assay
+99,DNA methylation profiling by array assay
+100,DNA methylation profiling by high throughput sequencing assay
+101,DNA replication timing by array assay
+102,DNA replication timing by sequencing assay
+103,DNA sequence feature detection assay
+104,DNA sequence variation detection assay
+105,DNA sequencing assay
+106,DNA sequencing by ligation assay
+107,DNA sequencing by synthesis assay
+108,DNA split-pool recognition of interactions and tag extension assay
+109,DNASE 1 structure mapping assay
+110,DNAse footprinting assay
+111,DNase Hi-C assay
+112,DNase I hypersensitive sites sequencing assay
+113,DT60 venous blood creatinine assay
+114,DamID-seq
+115,EBV IgG antibody assay
+116,EBV IgM antibody assay
+117,ELISA measuring Chikungunya IgM antibody
+118,ELISA measuring Orientia tsutsugamushi IgM antibody
+119,ELISA measuring binding of a B cell epitope:antibody complex
+120,ELISA measuring epitope specific IP-10 production by T cells
+121,ELISA measuring epitope specific RANTES production by T cells
+122,ELISA measuring epitope specific amphiregulin production by T cells
+123,ELISA measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+124,ELISA measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+125,ELISA measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+126,ELISA measuring epitope specific granulocyte colony stimulating factor production by T cells
+127,ELISA measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+128,ELISA measuring epitope specific granulysin release by T cells
+129,ELISA measuring epitope specific granzyme B release by T cells
+130,ELISA measuring epitope specific interferon-alpha production by T cells
+131,ELISA measuring epitope specific interferon-beta production by T cells
+132,ELISA measuring epitope specific interferon-gamma production by T cells
+133,ELISA measuring epitope specific interleukin-1 alpha production by T cells
+134,ELISA measuring epitope specific interleukin-1 beta production by T cells
+135,ELISA measuring epitope specific interleukin-10 production by T cells
+136,ELISA measuring epitope specific interleukin-12 production by T cells
+137,ELISA measuring epitope specific interleukin-13 production by T cells
+138,ELISA measuring epitope specific interleukin-15 production by T cells
+139,ELISA measuring epitope specific interleukin-16 production by T cells
+140,ELISA measuring epitope specific interleukin-17 production by T cells
+141,ELISA measuring epitope specific interleukin-17A production by T cells
+142,ELISA measuring epitope specific interleukin-17F production by T cells
+143,ELISA measuring epitope specific interleukin-18 production by T cells
+144,ELISA measuring epitope specific interleukin-2 production by T cells
+145,ELISA measuring epitope specific interleukin-21 production by T cells
+146,ELISA measuring epitope specific interleukin-22 production by T cells
+147,ELISA measuring epitope specific interleukin-23 production by T cells
+148,ELISA measuring epitope specific interleukin-25 production by T cells
+149,ELISA measuring epitope specific interleukin-27 production by T cells
+150,ELISA measuring epitope specific interleukin-3 production by T cells
+151,ELISA measuring epitope specific interleukin-4 production by T cells
+152,ELISA measuring epitope specific interleukin-5 production by T cells
+153,ELISA measuring epitope specific interleukin-6 production by T cells
+154,ELISA measuring epitope specific interleukin-7 production by T cells
+155,ELISA measuring epitope specific interleukin-8 production by T cells
+156,ELISA measuring epitope specific interleukin-9 production by T cells
+157,ELISA measuring epitope specific lymphotactin production by T cells
+158,ELISA measuring epitope specific lymphotoxin A production by T cells
+159,ELISA measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+160,ELISA measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+161,ELISA measuring epitope specific monocyte chemotactic protein-1 production by T cells
+162,ELISA measuring epitope specific perforin release by T cells
+163,ELISA measuring epitope specific transforming growth factor-beta production by T cells
+164,ELISA measuring epitope specific tumor necrosis factor alpha production by T cells
+165,ELISA measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+166,ELISA measuring epitope specific vascular endothelial growth factor production by T cells
+167,ELISA measuring the association constant [KA] of a B cell epitope:antibody complex
+168,ELISA measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+169,ELISPOT assay measuring binding of a B cell epitope:antibody complex
+170,ELISPOT assay measuring epitope specific IP-10 production by T cells
+171,ELISPOT assay measuring epitope specific RANTES production by T cells
+172,ELISPOT assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+173,ELISPOT assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+174,ELISPOT assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+175,ELISPOT assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+176,ELISPOT assay measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+177,ELISPOT assay measuring epitope specific granzyme B release by T cells
+178,ELISPOT assay measuring epitope specific interferon-beta production by T cells
+179,ELISPOT assay measuring epitope specific interferon-gamma production by T cells
+180,ELISPOT assay measuring epitope specific interleukin-1 alpha production by T cells
+181,ELISPOT assay measuring epitope specific interleukin-1 beta production by T cells
+182,ELISPOT assay measuring epitope specific interleukin-10 production by T cells
+183,ELISPOT assay measuring epitope specific interleukin-12 production by T cells
+184,ELISPOT assay measuring epitope specific interleukin-13 production by T cells
+185,ELISPOT assay measuring epitope specific interleukin-15 production by T cells
+186,ELISPOT assay measuring epitope specific interleukin-16 production by T cells
+187,ELISPOT assay measuring epitope specific interleukin-17 production by T cells
+188,ELISPOT assay measuring epitope specific interleukin-17A production by T cells
+189,ELISPOT assay measuring epitope specific interleukin-17F production by T cells
+190,ELISPOT assay measuring epitope specific interleukin-18 production by T cells
+191,ELISPOT assay measuring epitope specific interleukin-2 production by T cells
+192,ELISPOT assay measuring epitope specific interleukin-21 production by T cells
+193,ELISPOT assay measuring epitope specific interleukin-22 production by T cells
+194,ELISPOT assay measuring epitope specific interleukin-23 production by T cells
+195,ELISPOT assay measuring epitope specific interleukin-27 production by T cells
+196,ELISPOT assay measuring epitope specific interleukin-3 production by T cells
+197,ELISPOT assay measuring epitope specific interleukin-4 production by T cells
+198,ELISPOT assay measuring epitope specific interleukin-5 production by T cells
+199,ELISPOT assay measuring epitope specific interleukin-6 production by T cells
+200,ELISPOT assay measuring epitope specific interleukin-7 production by T cells
+201,ELISPOT assay measuring epitope specific interleukin-8 production by T cells
+202,ELISPOT assay measuring epitope specific interleukin-9 production by T cells
+203,ELISPOT assay measuring epitope specific lymphotoxin A production by T cells
+204,ELISPOT assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+205,ELISPOT assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+206,ELISPOT assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+207,ELISPOT assay measuring epitope specific perforin release by T cells
+208,ELISPOT assay measuring epitope specific transforming growth factor-beta production by T cells
+209,ELISPOT assay measuring epitope specific tumor necrosis factor alpha production by T cells
+210,ELISPOT assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+211,ELISPOT assay measuring epitope specific vascular endothelial growth factor production by T cells
+212,ENU structure mapping assay
+213,Edinburgh handedness assay
+214,Edman degradation
+215,Edman degradation assay measuring MHC ligand processing and presentation
+216,Fe-BABE RNA structure mapping assay
+217,GEM premier blood gas venous blood bicarbonate assay
+218,GEM premier blood gas venous blood carbon dioxide assay
+219,GEM premier blood gas venous blood glucose assay
+220,GEM premier blood gas venous blood hematocrit assay
+221,GEM premier blood gas venous blood hemoglobin assay
+222,GEM premier blood gas venous blood ionized calcium assay
+223,GEM premier blood gas venous blood lactic acid assay
+224,GEM premier blood gas venous blood oxygen assay
+225,GEM premier blood gas venous blood potassium assay
+226,GEM premier blood gas venous blood sodium assay
+227,GEM4 arterial blood bicarbonate assay
+228,GEM4 arterial blood carbon dioxide assay
+229,GEM4 arterial blood glucose assay
+230,GEM4 arterial blood hematocrit assay
+231,GEM4 arterial blood hemoglobin assay
+232,GEM4 arterial blood ionized calcium assay
+233,GEM4 arterial blood lactic acid assay
+234,GEM4 arterial blood oxygen assay
+235,GEM4 arterial blood potassium assay
+236,GEM4 arterial blood sodium assay
+237,GEM4 arterial blood temperature assay
+238,GEM4000 ANLCOOX arterial blood bicarbonate assay
+239,GEM4000 ANLCOOX arterial blood carbon dioxide assay
+240,GEM4000 ANLCOOX arterial blood glucose assay
+241,GEM4000 ANLCOOX arterial blood hematocrit assay
+242,GEM4000 ANLCOOX arterial blood hemoglobin assay
+243,GEM4000 ANLCOOX arterial blood ionized calcium assay
+244,GEM4000 ANLCOOX arterial blood oxygen assay
+245,GEM4000 ANLCOOX arterial blood potassium assay
+246,GEM4000 ANLCOOX arterial blood sodium assay
+247,GEM4000 ANLCOOX arterial blood temperature assay
+248,Giemsa stain assay
+249,Gram stain assay
+250,HBV surface antigen assay
+251,HCV antibody assay
+252,HCV nucleic acid testing
+253,HIV antibody assay
+254,HIV group O antibody assay
+255,HIV-1 nucleic acid testing
+256,Helicos sequencing assay
+257,Hi-C assay
+258,KINOMEscan assay
+259,KiNativ assay
+260,Lead structure mapping assay
+261,MHC ligand assay
+262,MHC tetramer/multimer assay measuring binding of a T cell epitope:MHC:TCR complex
+263,MPE-Fe(II) structure mapping assay
+264,MeDIP-seq assay
+265,MethylC-Capture sequencing assay
+266,N-acetyl-beta-glucosaminidase activity level assay
+267,NMIA RNA structure mapping assay
+268,NMR 3D molecular structure determination assay
+269,NMR assay determining the 3D structure of a B cell epitope:antibody complex
+270,NMR assay measuring binding of a B cell epitope:antibody complex
+271,NMR assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+272,NMR spectroscopy assay
+273,Nanostring nCounter miRNA expression assay
+274,Northwestern blot assay
+275,Nuclease S1 structure mapping assay
+276,OH-radical structure mapping assay
+277,Olink assay
+278,PCR-SSCP assay
+279,POC arterial blood creatinine assay
+280,POC chem8 arterial blood chloride assay
+281,POC chem8 arterial blood creatinine assay
+282,POC chem8 arterial blood glucose assay
+283,POC chem8 arterial blood hematocrit assay
+284,POC chem8 arterial blood ionized calcium assay
+285,POC chem8 arterial blood potassium assay
+286,POC chem8 arterial blood sodium assay
+287,PRO-cap
+288,Plasmodium gametocyte detection assay
+289,RIA measuring binding of a B cell epitope:antibody complex
+290,RIA measuring the association constant [KA] of a B cell epitope:antibody complex
+291,RIA measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+292,RNA ADA I RNA structure mapping assay
+293,RNA Annotation and Mapping of Promoters for the Analysis of Gene Expression assay
+294,RNA Bind-n-Seq assay
+295,RNA interactome capture
+296,RNA protection assay
+297,RNA sequencing assay
+298,RNA-DNA split-pool recognition of interactions and tag extension assay
+299,RNA-binding protein immunoprecipitation array profiling assay
+300,RNA-binding protein immunoprecipitation tiling array profiling assay
+301,RNA-seq assay
+302,RNASE CL3 structure mapping assay
+303,RNASE T1 structure mapping assay
+304,RNASE T2 structure mapping assay
+305,RNASE U2 structure mapping assay
+306,RNASE V1 structure mapping assay
+307,RNAi knockdown assay
+308,RNAi profiling by array assay
+309,RNP (ribonuclear particle) immunoprecipitation high- throughput sequencing assay
+310,Rhodium DNA structure mapping assay
+311,Ruthenium structure mapping assay
+312,SOLiD sequencing assay
+313,SOMAscan assay
+314,SPEP protein electrophoresis venous blood albumin assay
+315,SPEP protein electrophoresis venous blood beta-globin assay
+316,SPEP protein electrophoresis venous blood protein assay
+317,SWATH-MS protein profiling assay
+318,Solexa sequencing assay
+319,Sos-recruitment assay
+320,Southern blot assay
+321,Southwestern blot assay
+322,T cell activation induced marker assay
+323,T cell epitope assay
+324,T cell receptor repertoire sequencing assay
+325,T4 uptake venous blood T4 assay
+326,TSH reflex Free T4 venous blood thyroid stimulating hormone assay
+327,Terbium RNA structure mapping assay
+328,Tet-assisted bisulfite sequencing assay
+329,VectorTest assay
+330,WHO cone kit diagnostic assay
+331,WHO larvicide diagnostic assay
+332,WHO paper kit diagnostic assay
+333,X-ray crystallography 3D molecular structure determination assay
+334,X-ray crystallography assay determining the 3D structure of a B cell epitope:antibody complex
+335,X-ray crystallography assay determining the 3D structure of a MHC:ligand complex
+336,X-ray crystallography assay determining the 3D structure of a T cell epitope:MHC:TCR complex
+337,activated partial thromboplastin time assay
+338,acyl-CoA oxidase activity level assay
+339,adiponectin assay
+340,adiponectin concentration assay
+341,age determination assay
+342,alanine aminotransferase activity level assay
+343,alanine aminotransferase assay
+344,albumin assay
+345,albumin concentration assay
+346,alkaline phosphatase (human) assay
+347,alkaline phosphatase activity level assay
+348,amplicon sequencing assay
+349,amplification of intermethylated sites assay
+350,amylase activity level assay
+351,analyte assay
+352,analytical chromatography
+353,analytical chromatography measuring Chikungunya IgM antibody
+354,antibodies from lymphocyte secretions assay
+355,antibody binding detection by fluorescence quenching
+356,antibody cross-blocking assay
+357,antibody detection by cytometric bead array assay
+358,antigen detection by cytometric bead array assay
+359,antigen inhibition assay measuring binding of a B cell epitope:antibody complex
+360,antigen inhibition assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex approximated by IC50
+361,antigen specific antibodies assay
+362,antigen specific antibodies in blood assay
+363,antigen specific antibodies in milk assay
+364,antithrombin-III berichrome assay
+365,array based nucleic acid structure mapping assay
+366,arterial blood chloride assay
+367,arterial blood creatinine assay
+368,arterial blood glucose assay
+369,arterial blood hematocrit assay
+370,arterial blood hemoglobin assay
+371,arterial blood lactic acid assay
+372,arterial blood potassium assay
+373,arterial blood sodium assay
+374,aspartate aminotransferase (human) assay
+375,aspartate aminotransferase activity level assay
+376,assay detecting IFN-gamma production
+377,assay detecting a molecular label
+378,assay for transposase-accessible chromatin using sequencing
+379,assay measuring B cell epitope specific in vivo activity
+380,assay measuring MHC ligand processing and presentation
+381,assay measuring T cell epitope specific in vivo activity
+382,assay measuring T cell epitope specific suppression in vitro
+383,assay measuring a binding constant of a B cell epitope:antibody complex
+384,assay measuring a binding constant of a MHC:ligand complex
+385,assay measuring a binding constant of a T cell epitope:MHC:TCR complex
+386,assay measuring binding of a B cell epitope:antibody complex
+387,assay measuring binding of a MHC:ligand complex
+388,assay measuring binding of a T cell epitope:MHC:TCR complex
+389,assay measuring binding of a cell-bound-MHC:ligand complex
+390,assay measuring binding of a cell-lysate-MHC:ligand complex
+391,assay measuring binding of a purified-MHC:ligand complex
+392,assay measuring biological activity resulting from B cell epitope:antibody binding
+393,assay measuring biological activity resulting from T cell epitope:MHC:TCR binding
+394,assay measuring epitope specific IP-10 production by T cells
+395,assay measuring epitope specific Ig-mediated histamine release
+396,assay measuring epitope specific RANTES production by T cells
+397,assay measuring epitope specific T cell activation
+398,assay measuring epitope specific T cell killing
+399,assay measuring epitope specific activation of additional immune response in vitro
+400,assay measuring epitope specific amphiregulin production by T cells
+401,assay measuring epitope specific antibody-dependent cellular cytotoxicity
+402,assay measuring epitope specific antigen inhibition of antibody activity
+403,assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+404,assay measuring epitope specific chemokine (C-C motif) ligand 17 production by T cells
+405,assay measuring epitope specific chemokine (C-C motif) ligand 19 production by T cells
+406,assay measuring epitope specific chemokine (C-C motif) ligand 20 production by T cells
+407,assay measuring epitope specific chemokine (C-C motif) ligand 21 production by T cells
+408,assay measuring epitope specific chemokine (C-C motif) ligand 22 production by T cells
+409,assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+410,assay measuring epitope specific chemokine (C-X-C motif) ligand 12 production by T cells
+411,assay measuring epitope specific chemokine (C-X-C motif) ligand 13 production by T cells
+412,assay measuring epitope specific chemokine (C-X-C motif) ligand 16 production by T cells
+413,assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+414,assay measuring epitope specific complement-dependent cytotoxicity
+415,assay measuring epitope specific cytokine production by T cells
+416,assay measuring epitope specific cytotoxic T cell degranulation
+417,assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+418,assay measuring epitope specific granulocyte macrophage colony stimulating factor production by T cells
+419,assay measuring epitope specific granulysin release by T cells
+420,assay measuring epitope specific granzyme A release by T cells
+421,assay measuring epitope specific granzyme B release by T cells
+422,assay measuring epitope specific helper T cell enhancement of a B cell mediated immune response resulting from the adoptive transfer of epitope specific T cells
+423,assay measuring epitope specific helper T cell enhancement of a T cell mediated immune response resulting from the adoptive transfer of epitope specific T cells
+424,assay measuring epitope specific immune complex formation
+425,assay measuring epitope specific immunoglobulin-mediated antigen activation
+426,assay measuring epitope specific immunoglobulin-mediated neutralization
+427,assay measuring epitope specific interferon-alpha production by T cells
+428,assay measuring epitope specific interferon-beta production by T cells
+429,assay measuring epitope specific interferon-gamma production by T cells
+430,assay measuring epitope specific interleukin-1 alpha production by T cells
+431,assay measuring epitope specific interleukin-1 beta production by T cells
+432,assay measuring epitope specific interleukin-10 production by T cells
+433,assay measuring epitope specific interleukin-12 production by T cells
+434,assay measuring epitope specific interleukin-13 production by T cells
+435,assay measuring epitope specific interleukin-15 production by T cells
+436,assay measuring epitope specific interleukin-16 production by T cells
+437,assay measuring epitope specific interleukin-17 production by T cells
+438,assay measuring epitope specific interleukin-17A production by T cells
+439,assay measuring epitope specific interleukin-17F production by T cells
+440,assay measuring epitope specific interleukin-18 production by T cells
+441,assay measuring epitope specific interleukin-2 production by T cells
+442,assay measuring epitope specific interleukin-21 production by T cells
+443,assay measuring epitope specific interleukin-22 production by T cells
+444,assay measuring epitope specific interleukin-23 production by T cells
+445,assay measuring epitope specific interleukin-25 production by T cells
+446,assay measuring epitope specific interleukin-27 production by T cells
+447,assay measuring epitope specific interleukin-3 production by T cells
+448,assay measuring epitope specific interleukin-4 production by T cells
+449,assay measuring epitope specific interleukin-5 production by T cells
+450,assay measuring epitope specific interleukin-6 production by T cells
+451,assay measuring epitope specific interleukin-7 production by T cells
+452,assay measuring epitope specific interleukin-8 production by T cells
+453,assay measuring epitope specific lymphotactin production by T cells
+454,assay measuring epitope specific lymphotoxin A production by T cells
+455,assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+456,assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+457,assay measuring epitope specific macrophage migration inhibitory factor (MIF) production by T cells
+458,assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+459,assay measuring epitope specific oncostatin M production by T cells
+460,assay measuring epitope specific opsonization
+461,assay measuring epitope specific perforin release by T cells
+462,assay measuring epitope specific proliferation of T cells
+463,assay measuring epitope specific transforming growth factor-beta production by T cells
+464,assay measuring epitope specific tumor necrosis factor (ligand) superfamily member 11 production by T cells
+465,assay measuring epitope specific tumor necrosis factor alpha production by T cells
+466,assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+467,assay measuring epitope specific vascular endothelial growth factor production by T cells
+468,assay measuring interleukin-9 production by T cells
+469,assay measuring qualitative binding of a B cell epitope:antibody complex
+470,assay measuring qualitative binding of a MHC:ligand complex
+471,assay measuring qualitative binding of a T cell epitope:MHC:TCR complex
+472,assay measuring quantitative binding of a MHC:ligand complex
+473,assay measuring quantitative binding of an antigen:antibody complex
+474,assay measuring quantitative binding of an epitope:MHC:TCR complex
+475,assay measuring the MHC ligand binding on rate [kon] of a MHC:ligand complex
+476,assay measuring the association constant [KA] of a B cell epitope:antibody complex
+477,assay measuring the association constant [KA] of a MHC:ligand complex
+478,assay measuring the association constant [KA] of a T cell epitope:MHC:TCR complex
+479,assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+480,assay measuring the dissociation constant [KD] of a MHC:ligand complex
+481,assay measuring the dissociation constant [KD] of a T cell epitope:MHC:TCR complex
+482,assay measuring the half life of a MHC:ligand complex
+483,assay measuring the half maximal effective concentration [EC50] of a MHC:ligand complex
+484,assay measuring the half maximal inhibitory concentration [IC50] of a MHC:ligand complex
+485,assay measuring the off rate [koff] of a B cell epitope:antibody complex
+486,assay measuring the off rate [koff] of a T cell epitope:MHC:TCR complex
+487,assay measuring the off rate measurement [koff] of a MHC:ligand complex
+488,assay measuring the on rate [kon] of a B cell epitope:antibody complex
+489,assay measuring the on rate [kon] of a T cell epitope:MHC:TCR complex
+490,assay using chromatin immunoprecipitation
+491,autofluorescence assay
+492,autofluorescence microscopy assay
+493,automated count venous blood reticulocyte count assay
+494,automated differential venous blood basophil count assay
+495,automated differential venous blood eosinophil count assay
+496,automated differential venous blood lymphocyte count assay
+497,automated differential venous blood monocyte count assay
+498,automated differential venous blood neutrophil count assay
+499,bacterial one-hybrid assay
+500,basic metabolic panel venous blood calcium assay
+501,basic metabolic panel venous blood carbon dioxide assay
+502,basic metabolic panel venous blood chloride assay
+503,basic metabolic panel venous blood creatinine assay
+504,basic metabolic panel venous blood glucose assay
+505,basic metabolic panel venous blood potassium assay
+506,basic metabolic panel venous blood sodium assay
+507,basophil assay
+508,basophil count assay
+509,basophil percentage assay
+510,bile salt assay
+511,bile salt concentration assay
+512,bilirubin IXalpha assay
+513,binding assay
+514,binding assay using fluorescence detection
+515,binding assay using radioactivity detection
+516,binding constant determination assay
+517,bio-layer interferometry assay
+518,bio-layer interferometry assay measuring binding of a B cell epitope:antibody complex
+519,bio-layer interferometry assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+520,bio-layer interferometry assay measuring the off rate [koff] of a B cell epitope:antibody complex
+521,bio-layer interferometry assay measuring the on rate [kon] of a B cell epitope:antibody complex
+522,bisulfite sequencing assay
+523,blood assay
+524,blood gas arterial blood bicarbonate assay
+525,blood gas arterial blood carbon dioxide assay
+526,blood gas arterial blood oxygen assay
+527,blood gas venous blood bicarbonate assay
+528,blood gas venous blood carbon dioxide assay
+529,blood gas venous blood oxygen assay
+530,blood meal assay
+531,blood meal by counter current immunoelectrophoresis assay
+532,blood microbiology assay
+533,bodily fluid albumin assay
+534,bodily fluid cell count assay
+535,bodily fluid cholesterol assay
+536,bodily fluid glucose assay
+537,bodily fluid triglyceride assay
+538,bone marrow microbiology assay
+539,bone profile venous blood albumin assay
+540,bone profile venous blood calcium assay
+541,bone profile venous blood human alkaline phosphatase assay
+542,bone profile venous blood phosphate assay
+543,bone profile venous blood protein assay
+544,bromouride labeling and sequencing after UV exposure
+545,bromouridine labeling and sequencing assay
+546,bromouridine pulse-chase and sequencing assay
+547,bulbar assessment
+548,bulk Hi-C assay
+549,bulk RNA-seq assay
+550,bulk assay for transposase-accessible chromatin using sequencing
+551,calcium cation assay
+552,calcium cation concentration assay
+553,calorimetric binding assay
+554,calorimetry assay measuring binding of a B cell epitope:antibody complex
+555,calorimetry assay measuring the association constant [KA] of a B cell epitope:antibody complex
+556,calorimetry assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+557,cap analysis of gene expression assay
+558,capture Hi-C assay
+559,carbon dioxide assay
+560,carbon-copy chromosome conformation capture assay followed by sequencing assay
+561,carboxyfluorescein succinimidyl ester staining assay
+562,carboxyfluorescein succinimidyl ester staining assay measuring epitope specific proliferation of T cells
+563,cardiac enzymes venous blood creatine kinase assay
+564,cell bound MHC competitive binding assay measuring half maximal inhibitory concentration [IC50] of a MHC:ligand complex using T cell epitope recognition
+565,cell bound MHC competitive binding assay of a MHC:ligand complex using T cell epitope recognition
+566,cell culture analyte detection bioassay measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+567,cell culture analyte detection bioassay measuring epitope specific interferon-gamma production by T cells
+568,cell culture analyte detection bioassay measuring epitope specific interleukin-10 production by T cells
+569,cell culture analyte detection bioassay measuring epitope specific interleukin-16 production by T cells
+570,cell culture analyte detection bioassay measuring epitope specific interleukin-2 production by T cells
+571,cell culture analyte detection bioassay measuring epitope specific interleukin-3 production by T cells
+572,cell culture analyte detection bioassay measuring epitope specific interleukin-4 production by T cells
+573,cell culture analyte detection bioassay measuring epitope specific interleukin-5 production by T cells
+574,cell culture analyte detection bioassay measuring epitope specific interleukin-6 production by T cells
+575,cell culture analyte detection bioassay measuring epitope specific transforming growth factor-beta production by T cells
+576,cell culture analyte detection bioassay measuring epitope specific tumor necrosis factor alpha production by T cells
+577,cell culture analyte detection bioassay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+578,cell culture assay
+579,cell proliferation assay
+580,cell proliferation assay using carboxyfluorescein succinimidyl ester staining
+581,cell viability assay
+582,cell viability assay using Annexin V staining
+583,cell-attached patch clamp assay
+584,cell-cell binding detection by flow cytometry assay
+585,cell-cell killing assay
+586,cerebrospinal fluid assay
+587,cerebrospinal fluid basophil count assay
+588,cerebrospinal fluid eosinophil count assay
+589,cerebrospinal fluid glucose assay
+590,cerebrospinal fluid lymphocyte count assay
+591,cerebrospinal fluid macrophage count assay
+592,cerebrospinal fluid mesothelial cell count assay
+593,cerebrospinal fluid microbiology assay
+594,cerebrospinal fluid monocyte count assay
+595,cerebrospinal fluid protein assay
+596,cerebrospinal fluid segmented neutrophil count assay
+597,chain termination sequencing assay
+598,chem11 venous blood albumin assay
+599,chem11 venous blood calcium assay
+600,chem11 venous blood carbon dioxide assay
+601,chem11 venous blood chloride assay
+602,chem11 venous blood creatinine assay
+603,chem11 venous blood glucose assay
+604,chem11 venous blood magnesium assay
+605,chem11 venous blood phosphate assay
+606,chem11 venous blood potassium assay
+607,chem11 venous blood sodium assay
+608,chem16 venous blood alanine aminotransferase assay
+609,chem16 venous blood albumin assay
+610,chem16 venous blood bilirubin assay
+611,chem16 venous blood calcium assay
+612,chem16 venous blood carbon dioxide assay
+613,chem16 venous blood chloride assay
+614,chem16 venous blood creatinine assay
+615,chem16 venous blood glucose assay
+616,chem16 venous blood human alkaline phosphatase assay
+617,chem16 venous blood human aspartate aminotransferase assay
+618,chem16 venous blood magnesium assay
+619,chem16 venous blood phosphate assay
+620,chem16 venous blood potassium assay
+621,chem16 venous blood sodium assay
+622,chem16 venous blood triglyceride assay
+623,chloride assay
+624,chloride concentration assay
+625,cholesterol assay
+626,cholesterol concentration assay
+627,cholinesterase activity level assay
+628,chromatin immunoprecipitation with exonuclease sequencing assay
+629,chromatin interaction analysis by paired-end tag sequencing assay
+630,chromatin isolation by RNA purification sequencing assay
+631,chromatography assay measuring binding of a B cell epitope:antibody complex
+632,chromatography assay measuring the association constant [KA] of a B cell epitope:antibody complex
+633,chromatography assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+634,chromium release assay
+635,chromosome conformation capture assay
+636,chromosome conformation capture sequencing assay
+637,chromosome conformation capture-on-chip assay
+638,chromosome organization assay by fluorescence in-situ hybridization
+639,cleavage under targets and release using nuclease assay
+640,cleavage under targets and tagmentation
+641,clinical chemistry assay
+642,co-detection by indexing assay
+643,coelution assay measuring MHC ligand processing and presentation using T cell recognition of HPLC fractionated eluate compared to synthetic ligand
+644,coma severity assay
+645,comet assay
+646,comparative genomic hybridization by array assay
+647,competitive inhibition of binding assay
+648,comprehensive metabolic panel venous blood alanine aminotransferase assay
+649,comprehensive metabolic panel venous blood albumin assay
+650,comprehensive metabolic panel venous blood bilirubin assay
+651,comprehensive metabolic panel venous blood calcium assay
+652,comprehensive metabolic panel venous blood carbon dioxide assay
+653,comprehensive metabolic panel venous blood chloride assay
+654,comprehensive metabolic panel venous blood creatinine assay
+655,comprehensive metabolic panel venous blood glucose assay
+656,comprehensive metabolic panel venous blood human alkaline phosphatase assay
+657,comprehensive metabolic panel venous blood human aspartate aminotransferase assay
+658,comprehensive metabolic panel venous blood potassium assay
+659,comprehensive metabolic panel venous blood protein assay
+660,comprehensive metabolic panel venous blood sodium assay
+661,computed tomography imaging assay
+662,confocal fluorescence microscopy assay
+663,cooximitery arterial blood hemoglobin assay
+664,cooximitery arterial blood methemoglobin assay
+665,cooximitery arterial blood oxygen assay
+666,copy number variation profiling assay
+667,core HBV IgM antibody assay
+668,core HBV antibody assay
+669,corrected venous blood leukocyte count assay
+670,count bodily fluid cell count assay
+671,count venous blood reticulocyte count assay
+672,creatine assay
+673,creatine concentration assay
+674,creatine kinase activity level assay
+675,creatine kinase assay
+676,creatinine assay
+677,creatinine clearance urine creatinine assay
+678,creatinine concentration assay
+679,cross blocking assay measuring binding of a B cell epitope:antibody complex
+680,cross-linking immunoprecipitation high-throughput sequencing assay
+681,current clamp assay
+682,cut open oocyte voltage clamp assay
+683,cyclic immunoflouroescence assay
+684,cytochalasin-induced inhibition of actin polymerization assay
+685,cytokine assay
+686,cytometric bead array assay
+687,cytometric bead array assay measuring  epitope specific chemokine (C-C motif) ligand 20 production by T cells
+688,cytometric bead array assay measuring epitope specific IP-10 production by T cells
+689,cytometric bead array assay measuring epitope specific RANTES production by T cells
+690,cytometric bead array assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+691,cytometric bead array assay measuring epitope specific chemokine (C-C motif) ligand 22 production by T cells
+692,cytometric bead array assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+693,cytometric bead array assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+694,cytometric bead array assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+695,cytometric bead array assay measuring epitope specific granulysin release by T cells
+696,cytometric bead array assay measuring epitope specific granzyme A release by T cells
+697,cytometric bead array assay measuring epitope specific granzyme B release by T cells
+698,cytometric bead array assay measuring epitope specific interferon-gamma production by T cells
+699,cytometric bead array assay measuring epitope specific interleukin-1 alpha production by T cells
+700,cytometric bead array assay measuring epitope specific interleukin-1 beta production by T cells
+701,cytometric bead array assay measuring epitope specific interleukin-10 production by T cells
+702,cytometric bead array assay measuring epitope specific interleukin-12 production by T cells
+703,cytometric bead array assay measuring epitope specific interleukin-13 production by T cells
+704,cytometric bead array assay measuring epitope specific interleukin-15 production by T cells
+705,cytometric bead array assay measuring epitope specific interleukin-16 production by T cells
+706,cytometric bead array assay measuring epitope specific interleukin-17 production by T cells
+707,cytometric bead array assay measuring epitope specific interleukin-17A production by T cells
+708,cytometric bead array assay measuring epitope specific interleukin-17F production by T cells
+709,cytometric bead array assay measuring epitope specific interleukin-18 production by T cells
+710,cytometric bead array assay measuring epitope specific interleukin-2 production by T cells
+711,cytometric bead array assay measuring epitope specific interleukin-27 production by T cells
+712,cytometric bead array assay measuring epitope specific interleukin-3 production by T cells
+713,cytometric bead array assay measuring epitope specific interleukin-4 production by T cells
+714,cytometric bead array assay measuring epitope specific interleukin-5 production by T cells
+715,cytometric bead array assay measuring epitope specific interleukin-6 production by T cells
+716,cytometric bead array assay measuring epitope specific interleukin-7 production by T cells
+717,cytometric bead array assay measuring epitope specific interleukin-8 production by T cells
+718,cytometric bead array assay measuring epitope specific interleukin-9 production by T cells
+719,cytometric bead array assay measuring epitope specific intracellular cytokine staining (ICS) IL-21 production by T cells
+720,cytometric bead array assay measuring epitope specific intracellular cytokine staining (ICS) IL-22 production by T cells
+721,cytometric bead array assay measuring epitope specific intracellular cytokine staining (ICS) IL-23 production by T cells
+722,cytometric bead array assay measuring epitope specific lymphotoxin A production by T cells
+723,cytometric bead array assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+724,cytometric bead array assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+725,cytometric bead array assay measuring epitope specific macrophage migration inhibitory factor (MIF) production by T cells
+726,cytometric bead array assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+727,cytometric bead array assay measuring epitope specific oncostatin M production by T cells
+728,cytometric bead array assay measuring epitope specific perforin release by T cells
+729,cytometric bead array assay measuring epitope specific transforming growth factor-beta production by T cells
+730,cytometric bead array assay measuring epitope specific tumor necrosis factor alpha production by T cells
+731,cytometric bead array assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+732,cytometric bead array assay measuring epitope specific vascular endothelial growth factor production by T cells
+733,cytometric bead array measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+734,cytometry assay
+735,cytometry time of flight assay
+736,"cytosolic creatine kinase complex, MB-type assay"
+737,decoding amplified targeted transcripts with fluorescence in situ hybridization assay
+738,deep tendon reflex assessment
+739,deep tendon reflex assessment of the ankle joint
+740,deep tendon reflex assessment of the brachioradialis
+741,deep tendon reflex assessment of the knee joint
+742,deep tendon reflex assessment of the tendon of biceps brachii
+743,detection of specific nucleic acid polymers with complementary probes
+744,detection of specific nucleic acids with complementary probes assay measuring epitope specific IP-10 production by T cells
+745,detection of specific nucleic acids with complementary probes assay measuring epitope specific RANTES production by T cells
+746,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+747,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 17 production by T cells
+748,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 19 production by T cells
+749,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 21 production by T cells
+750,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 22 production by T cells
+751,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+752,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-X-C motif) ligand 12 production by T cells
+753,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-X-C motif) ligand 13 production by T cells
+754,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-X-C motif) ligand 16 production by T cells
+755,detection of specific nucleic acids with complementary probes assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+756,detection of specific nucleic acids with complementary probes assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+757,detection of specific nucleic acids with complementary probes assay measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+758,detection of specific nucleic acids with complementary probes assay measuring epitope specific granzyme A release by T cells
+759,detection of specific nucleic acids with complementary probes assay measuring epitope specific granzyme B release by T cells
+760,detection of specific nucleic acids with complementary probes assay measuring epitope specific interferon-beta production by T cells
+761,detection of specific nucleic acids with complementary probes assay measuring epitope specific interferon-gamma production by T cells
+762,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-1 alpha production by T cells
+763,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-1 beta production by T cells
+764,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-10 production by T cells
+765,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-12 production by T cells
+766,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-13 production by T cells
+767,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-16 production by T cells
+768,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-17 production by T cells
+769,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-17A production by T cells
+770,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-17F production by T cells
+771,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-18 production by T cells
+772,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-2 production by T cells
+773,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-21 production by T cells
+774,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-22 production by T cells
+775,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-23 production by T cells
+776,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-25 production by T cells
+777,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-27 production by T cells
+778,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-3 production by T cells
+779,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-4 production by T cells
+780,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-5 production by T cells
+781,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-6 production by T cells
+782,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-7 production by T cells
+783,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-8 production by T cells
+784,detection of specific nucleic acids with complementary probes assay measuring epitope specific interleukin-9 production by T cells
+785,detection of specific nucleic acids with complementary probes assay measuring epitope specific lymphotoxin A production by T cells
+786,detection of specific nucleic acids with complementary probes assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+787,detection of specific nucleic acids with complementary probes assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+788,detection of specific nucleic acids with complementary probes assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+789,detection of specific nucleic acids with complementary probes assay measuring epitope specific perforin release
+790,detection of specific nucleic acids with complementary probes assay measuring epitope specific transforming growth factor-beta production by T cells
+791,detection of specific nucleic acids with complementary probes assay measuring epitope specific tumor necrosis factor alpha production by T cells
+792,detection of specific nucleic acids with complementary probes assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+793,detection of specific nucleic acids with complementary probes assay measuring epitope specific vascular endothelial growth factor production by T cells
+794,detection of specific nucleic acids with complementary probes measuring epitope specific interleukin-15 production by T cells
+795,detection technique
+796,differential medium assay
+797,direct RNA sequencing assay
+798,direct bilirubin concentration assay
+799,direct binding assay
+800,direct insecticide resistance bioassay
+801,direct insecticide resistance diagnostic assay
+802,direct venous blood bilirubin assay
+803,disease exacerbation in vivo intervention experiment
+804,dot blot assay
+805,dysmetria assessment
+806,efficacy of epitope intervention experiment
+807,electroencephalography
+808,electrolytes urine potassium assay
+809,electrolytes urine sodium assay
+810,electron microscopy assay determining the 3D structure of a B cell epitope:antibody complex
+811,electron microscopy assay measuring binding of a B cell epitope:antibody complex
+812,electron microscopy imaging assay
+813,electron-microscopy 3D molecular structure determination assay
+814,electrophoretic mobility shift assay
+815,electrophysiology assay
+816,elemental oxygen assay
+817,endotracheal aspirate assay
+818,endotracheal tube aspirate microbiology assay
+819,enhanced cross-linking immunoprecipitation high-throughput sequencing assay
+820,enhancer activity detection by reporter gene assay
+821,enzymatic activity level assay
+822,enzyme-linked immunosorbent assay
+823,enzyme-linked immunospot assay
+824,eosinophil assay
+825,eosinophil count assay
+826,eosinophil percentage assay
+827,epigenetic modification assay
+828,epitope disease exacerbation experiment
+829,epitope protection experiment
+830,epitope protection experiment based on survival
+831,epitope protection from infectious challenge experiment
+832,epitope protection from infectious challenge experiment based on pathogen burden
+833,epitope protection from infectious challenge experiment based on survival
+834,epitope protection from tumor challenge experiment
+835,epitope protection from tumor challenge experiment based on burden
+836,epitope protection from tumor challenge experiment based on survival
+837,epitope tolerance induction experiment
+838,epitope treatment experiment
+839,erythrocyte assay
+840,erythrocyte count assay
+841,estimated venous blood glomerular filtration assay
+842,estradiol assay
+843,estradiol concentration assay
+844,exome sequencing assay
+845,extracellular electrophysiology recording assay
+846,extrachromosomal circular DNA sequencing assay
+847,facial atrophy assessment
+848,falcivax rapid diagnostic test
+849,far-western blot assay
+850,fasting venous blood glucose assay
+851,fatty acid assay
+852,feces assay
+853,feces microbiology assay
+854,ferritin assay
+855,fibrinogen assay
+856,fibrinogen concentration assay
+857,finger taps assessment
+858,finger to finger assessment
+859,flow cytometry assay
+860,flow cytometry assay measuring binding of a B cell epitope:antibody complex
+861,flow cytometry assay measuring cell-cell binding of a T cell epitope:MHC:TCR complex
+862,fluorescence detection assay
+863,fluorescence detection assay measuring 50% dissociation of binding temperature [Tm] of a purified-MHC:ligand complex
+864,fluorescence detection assay measuring binding off rate [koff] to determine direct binding of a cell-bound-MHC:ligand complex
+865,fluorescence detection assay measuring binding off rate [koff] to determine direct binding of a purified-MHC:ligand complex
+866,fluorescence detection assay measuring binding on rate [kon] to determine direct binding of a cell-bound-MHC:ligand complex
+867,fluorescence detection assay measuring binding on rate [kon] to determine direct binding of a purified-MHC:ligand complex
+868,fluorescence detection assay measuring competitive binding of a cell-bound-MHC:ligand complex
+869,fluorescence detection assay measuring competitive binding of a purified-MHC:ligand complex
+870,fluorescence detection assay measuring direct binding of a cell-bound-MHC:ligand complex
+871,fluorescence detection assay measuring direct binding of a cell-lysate-MHC:ligand complex
+872,fluorescence detection assay measuring direct binding of a purified-MHC:ligand complex
+873,fluorescence detection assay measuring equilibrium association constant [KA] to determine direct binding of a cell-bound-MHC:ligand complex
+874,fluorescence detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a cell-bound-MHC:ligand complex
+875,fluorescence detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a purified-MHC:ligand complex
+876,fluorescence detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a purified-MHC:ligand complex approximated by IC50
+877,fluorescence detection assay measuring equilibrium dissociation constant [KD] to determine direct binding of a purified-MHC:ligand complex approximated by EC50
+878,fluorescence detection assay measuring half life to determine direct binding of a cell-bound-MHC:ligand complex
+879,fluorescence detection assay measuring half life to determine direct binding of a purified-MHC:ligand complex
+880,fluorescence detection assay measuring half maximal effective concentration [EC50] to determine direct binding of a cell-bound-MHC:ligand complex
+881,fluorescence detection assay measuring half maximal effective concentration [EC50] to determine direct binding of a purified-MHC:ligand complex
+882,fluorescence detection assay measuring half maximal inhibitory concentration [IC50] to determine competitive binding of a cell-bound-MHC:ligand complex
+883,fluorescence detection assay measuring half maximal inhibitory concentration [IC50] to determine competitive binding of a purified-MHC:ligand complex
+884,fluorescence imaging multiplex cytological profiling
+885,fluorescence imaging-based apoptosis assay
+886,fluorescence imaging-based cell morphology assay
+887,fluorescence imaging-based cell proliferation assay
+888,fluorescence imaging-based cell viability assay
+889,fluorescence imaging-based drug synergy assay
+890,fluorescence imaging-based protein phosphorylation state assay
+891,fluorescence imaging-based reporter gene assay
+892,fluorescence in-situ hybridization assay
+893,fluorescence microscopy assay
+894,fluorescence quenching binding assay
+895,fluorescent immunospot assay
+896,fluorogenic PCR assay
+897,fluroescence imaging-based cell cycle state assay
+898,folic acids assay
+899,follicle stimulating hormone assay
+900,follicle stimulating hormone concentration assay
+901,footprinting assay
+902,footprinting assay measuring binding of a B cell epitope:antibody complex
+903,forced cough assessment
+904,formaldehyde-assisted isolation of regulatory elements assay
+905,free fatty acid concentration assay
+906,free thyroxine concentration assay
+907,free venous blood T3 assay
+908,free venous blood T4 assay
+909,free/total venous blood PSA assay
+910,functional assessment of individual
+911,gait assessment
+912,galactosidase activity level assay
+913,gamma-glutamyltransferase activity level assay
+914,gas chromatography mass spectrometry assay
+915,gene dosage assay
+916,gene knock-down assay
+917,genome architecture mapping assay
+918,genomic SELEX
+919,genotype phasing by Hi-C assay
+920,genotyping assay
+921,genotyping by PCR assay
+922,genotyping by SNP array assay
+923,genotyping by array assay
+924,genotyping by high throughput sequencing assay
+925,genotyping by tiling array assay
+926,global chromatin profiling by mass spectrometry assay
+927,globulin assay
+928,globulin concentration assay
+929,glucose assay
+930,glucose tolerance test
+931,glutamate dehydrogenase activity level assay
+932,handedness assay
+933,heel along shin assessment
+934,heel to shin assessment
+935,hematocrit assay
+936,hematology assay
+937,hemoglobin and hematocrit venous blood hematocrit assay
+938,hemoglobin and hematocrit venous blood hemoglobin assay
+939,hemoglobin assay
+940,hemoglobin concentration assay
+941,hemoglobin oxygen saturation arterial blood hemoglobin assay
+942,hemoglobin oxygen saturation arterial blood oxygen assay
+943,hepatic panel venous blood alanine aminotransferase assay
+944,hepatic panel venous blood albumin assay
+945,hepatic panel venous blood bilirubin assay
+946,hepatic panel venous blood human alkaline phosphatase assay
+947,hepatic panel venous blood human aspartate aminotransferase assay
+948,hepatic panel venous blood protein assay
+949,high performance liquid chromotography assay
+950,high sensitivity cardiac/neonatal venous blood c-reactive protein assay
+951,high throughput multiplexed assay measuring MHC ligand processing and presentation
+952,high throughput multiplexed assay measuring binding of a B cell epitope:antibody complex
+953,high throughput multiplexed assay measuring binding of a MHC:ligand complex
+954,high throughput multiplexed assay measuring binding of a T cell epitope:MHC:TCR complex
+955,high-density lipoprotein cholesterol assay
+956,high-density lipoprotein cholesterol concentration assay
+957,high-density lipoprotein concentration assay
+958,histological assay
+959,histone modification identification by ChIP-Seq assay
+960,histone modification identification by ChIP-chip assay
+961,histopathology assay
+962,human antithrombin-III in blood assay
+963,hydrogen/deuterium exchange footprinting assay
+964,hydrogen/deuterium exchange footprinting assay measuring binding of a B cell epitope:antibody complex
+965,hydrogencarbonate assay
+966,hydroxyl-radical footprinting assay
+967,hydroxyl-radical footprinting assay measuring binding of a B cell epitope:antibody complex
+968,imaging assay
+969,imaging mass cytometry assay
+970,immature neutrophil count assay
+971,immature neutrophil percentage assay
+972,immune epitope assay
+973,immune response assay
+974,immuno staining assay
+975,immuno staining assay measuring binding of a B cell epitope:antibody complex
+976,immunoblot assay
+977,immunoblot assay measuring binding of a B cell epitope:antibody complex
+978,immunocytochemistry
+979,immunohistochemistry
+980,immunohistochemistry assay measuring binding of a B cell epitope:antibody complex
+981,immunoprecipitation assay
+982,immunoprecipitation assay measuring binding of a B cell epitope:antibody complex
+983,in container assay
+984,in live cell assay
+985,in live organism assay
+986,in vitro assay measuring epitope specific T cell killing
+987,in vitro assay measuring epitope specific proliferation of T cells
+988,in vitro cell killing assay
+989,in vitro transcription reconstitution assay
+990,in vivo assay measuring B cell epitope specific disease exacerbation
+991,in vivo assay measuring B cell epitope specific disease exacerbation resulting from the adoptive transfer of epitope specific antibodies or B cells
+992,in vivo assay measuring B cell epitope specific disease reduction resulting from adoptive transfer of epitope specific antibodies or B cells
+993,in vivo assay measuring B cell epitope specific induction of hypersensitivity
+994,in vivo assay measuring B cell epitope specific induction of hypersensitivity resulting from the adoptive transfer of epitope specific antibodies or B cells
+995,in vivo assay measuring B cell epitope specific pathogen protection from challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on survival
+996,in vivo assay measuring B cell epitope specific protection after tumor burden challenge
+997,in vivo assay measuring B cell epitope specific protection based on survival
+998,in vivo assay measuring B cell epitope specific protection from challenge
+999,in vivo assay measuring B cell epitope specific protection from challenge resulting from adoptive transfer of epitope specific antibodies or B cells
+1000,in vivo assay measuring B cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on pathogen burden
+1001,in vivo assay measuring B cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on tumor burden
+1002,in vivo assay measuring B cell epitope specific protection from fertility
+1003,in vivo assay measuring B cell epitope specific protection from infectious challenge based on pathogen burden
+1004,in vivo assay measuring B cell epitope specific protection from other challenge
+1005,in vivo assay measuring B cell epitope specific protection from other challenge resulting from the adoptive transfer of epitope specific antibodies or B cells
+1006,in vivo assay measuring B cell epitope specific protection from other challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on survival
+1007,in vivo assay measuring B cell epitope specific protection from pathogen challenge
+1008,in vivo assay measuring B cell epitope specific protection from pathogen challenge resulting from the adoptive transfer of epitope specific antibodies or B cells
+1009,in vivo assay measuring B cell epitope specific protection from tumor challenge
+1010,in vivo assay measuring B cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific antibodies or B cells
+1011,in vivo assay measuring B cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific antibodies or B cells based on survival
+1012,in vivo assay measuring B cell epitope specific survival after pathogen challenge
+1013,in vivo assay measuring B cell epitope specific survival after tumor challenge
+1014,in vivo assay measuring B cell epitope specific tolerance induction
+1015,in vivo assay measuring B cell epitope specific tolerance induction resulting from the adoptive transfer of epitope specific antibodies or B cells
+1016,in vivo assay measuring B cell epitope specific treatment of disease
+1017,in vivo assay measuring T cell epitope specific disease exacerbation
+1018,in vivo assay measuring T cell epitope specific disease exacerbation resulting from the adoptive transfer of epitope specific T cells
+1019,in vivo assay measuring T cell epitope specific disease reduction resulting from the adoptive transfer of epitope specific T cells
+1020,in vivo assay measuring T cell epitope specific pathogen protection from challenge resulting from the adoptive transfer of epitope specific T cells based on survival
+1021,in vivo assay measuring T cell epitope specific protection after tumor burden challenge
+1022,in vivo assay measuring T cell epitope specific protection based on survival
+1023,in vivo assay measuring T cell epitope specific protection from challenge
+1024,in vivo assay measuring T cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific T cells
+1025,in vivo assay measuring T cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific T cells based on pathogen burden
+1026,in vivo assay measuring T cell epitope specific protection from challenge resulting from the adoptive transfer of epitope specific T cells based on tumor burden
+1027,in vivo assay measuring T cell epitope specific protection from infectious challenge based on pathogen burden
+1028,in vivo assay measuring T cell epitope specific protection from other challenge
+1029,in vivo assay measuring T cell epitope specific protection from other challenge resulting from the adoptive transfer of epitope specific T cells
+1030,in vivo assay measuring T cell epitope specific protection from other challenge resulting from the adoptive transfer of epitope specific T cells based on survival
+1031,in vivo assay measuring T cell epitope specific protection from pathogen challenge
+1032,in vivo assay measuring T cell epitope specific protection from pathogen challenge resulting from the adoptive transfer of epitope specific T cells
+1033,in vivo assay measuring T cell epitope specific protection from tumor challenge
+1034,in vivo assay measuring T cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific T cells
+1035,in vivo assay measuring T cell epitope specific protection from tumor challenge resulting from the adoptive transfer of epitope specific T cells based on survival
+1036,in vivo assay measuring T cell epitope specific survival after pathogen challenge
+1037,in vivo assay measuring T cell epitope specific survival after tumor challenge
+1038,in vivo assay measuring T cell epitope specific tolerance induction
+1039,in vivo assay measuring T cell epitope specific tolerance induction resulting from the adoptive transfer of epitope specific T cells
+1040,in vivo assay measuring T cell epitope specific treatment of disease
+1041,in vivo assay measuring a B cell epitope specific response after adoptive transfer of epitope specific antibodies or B cells
+1042,in vivo assay measuring a T cell epitope specific response after adoptive transfer of epitope specific T cells
+1043,in vivo assay measuring epitope specific T cell helper activity
+1044,in vivo assay measuring epitope specific T cell killing
+1045,in vivo assay measuring epitope specific T cell killing resulting from the adoptive transfer of epitope specific T cells
+1046,in vivo assay measuring epitope specific helper T cell enhancement of a B cell mediated immune response
+1047,in vivo assay measuring epitope specific helper T cell enhancement of a T cell mediated immune response
+1048,in vivo assay measuring epitope specific proliferation of T cells
+1049,in vivo assay measuring epitope specific proliferation of T cells resulting from the adoptive transfer of epitope specific T cells
+1050,in vivo cell killing assay
+1051,in vivo intervention experiment
+1052,in vivo skin test assay measuring T cell epitope specific type IV hypersensitivity
+1053,in vivo skin test assay measuring T cell epitope specific type IV hypersensitivity resulting from the adoptive transfer of epitope specific T cells
+1054,in-situ hybridization assay
+1055,indirect bilirubin concentration assay
+1056,individual-nucleotide resolution cross-linking and immunoprecipitation sequencing assay
+1057,induced sputum assay
+1058,induced sputum microbiology assay
+1059,infectious agent detection assay
+1060,inline probing RNA structure mapping assay
+1061,inpatient profile venous blood carbon dioxide assay
+1062,inpatient profile venous blood creatinine assay
+1063,inpatient profile venous blood potassium assay
+1064,inpatient profile venous blood sodium assay
+1065,insecticide resistance assay
+1066,insecticide resistance bioassay
+1067,insecticide resistance by PCR amplification of specific alleles assay
+1068,insecticide resistance by PCR-RFLP assay
+1069,insecticide resistance by amplification refractory mutation system assay
+1070,insecticide resistance by detecting acetylcholinesterase activity assay
+1071,insecticide resistance by detecting alpha esterase activity assay
+1072,insecticide resistance by detecting beta esterase activity assay
+1073,insecticide resistance by detecting carboxylic ester hydrolase activity assay
+1074,insecticide resistance by detecting enzyme activity assay
+1075,insecticide resistance by detecting glutathione S-transferase activity assay
+1076,insecticide resistance by detecting mixed-function oxidase assay
+1077,insecticide resistance by fluorogenic PCR assay
+1078,insecticide resistance by ligase detection reaction assay
+1079,insecticide resistance by ligase detection reaction-fluorescent microsphere assay
+1080,insecticide resistance by monitoring known mutations assay
+1081,insecticide resistance by nested polymerase chain reaction assay
+1082,insecticide resistance by primer introduced restriction analysis PCR assay
+1083,insecticide resistance by short interspersed elements PCR assay
+1084,insecticide resistance dose response assay
+1085,insecticide resistance dose response by WHO paper kit assay
+1086,insecticide resistance dose response by bottle assay
+1087,insecticide resistance dose response by survival of larvae assay
+1088,insecticide resistance time response assay
+1089,insecticide resistance time response by WHO paper kit assay
+1090,insecticide resistance time response by bottle assay
+1091,inside-out patch clamp assay
+1092,insulin assay
+1093,insulin concentration assay
+1094,intact venous blood PTH assay
+1095,intracellular cytokine staining assay measuring epitope specific IP-10 production by T cells
+1096,intracellular cytokine staining assay measuring epitope specific RANTES production by T cells
+1097,intracellular cytokine staining assay measuring epitope specific chemokine (C-C motif) ligand 1 production by T cells
+1098,intracellular cytokine staining assay measuring epitope specific chemokine (C-C motif) ligand 4 production by T cells
+1099,intracellular cytokine staining assay measuring epitope specific chemokine (C-X-C motif) ligand 9 production by T cells
+1100,intracellular cytokine staining assay measuring epitope specific granulocyte colony stimulating factor production by T cells
+1101,intracellular cytokine staining assay measuring epitope specific granulocyte macrophage colony-stimulating factor production by T cells
+1102,intracellular cytokine staining assay measuring epitope specific interferon-beta production by T cells
+1103,intracellular cytokine staining assay measuring epitope specific interferon-gamma production by T cells
+1104,intracellular cytokine staining assay measuring epitope specific interleukin-1 alpha production by T cells
+1105,intracellular cytokine staining assay measuring epitope specific interleukin-1 beta production by T cells
+1106,intracellular cytokine staining assay measuring epitope specific interleukin-10 production by T cells
+1107,intracellular cytokine staining assay measuring epitope specific interleukin-12 production by T cells
+1108,intracellular cytokine staining assay measuring epitope specific interleukin-13 production by T cells
+1109,intracellular cytokine staining assay measuring epitope specific interleukin-15 production by T cells
+1110,intracellular cytokine staining assay measuring epitope specific interleukin-16 production by T cells
+1111,intracellular cytokine staining assay measuring epitope specific interleukin-17 production by T cells
+1112,intracellular cytokine staining assay measuring epitope specific interleukin-17A production by T cells
+1113,intracellular cytokine staining assay measuring epitope specific interleukin-17F production by T cells
+1114,intracellular cytokine staining assay measuring epitope specific interleukin-18 production by T cells
+1115,intracellular cytokine staining assay measuring epitope specific interleukin-2 production by T cells
+1116,intracellular cytokine staining assay measuring epitope specific interleukin-21 production by T cells
+1117,intracellular cytokine staining assay measuring epitope specific interleukin-22 production by T cells
+1118,intracellular cytokine staining assay measuring epitope specific interleukin-23 production by T cells
+1119,intracellular cytokine staining assay measuring epitope specific interleukin-25 production by T cells
+1120,intracellular cytokine staining assay measuring epitope specific interleukin-27 production by T cells
+1121,intracellular cytokine staining assay measuring epitope specific interleukin-3 production by T cells
+1122,intracellular cytokine staining assay measuring epitope specific interleukin-4 production by T cells
+1123,intracellular cytokine staining assay measuring epitope specific interleukin-5 production by T cells
+1124,intracellular cytokine staining assay measuring epitope specific interleukin-6 production by T cells
+1125,intracellular cytokine staining assay measuring epitope specific interleukin-7 production by T cells
+1126,intracellular cytokine staining assay measuring epitope specific interleukin-8 production by T cells
+1127,intracellular cytokine staining assay measuring epitope specific interleukin-9 production by T cells
+1128,intracellular cytokine staining assay measuring epitope specific lymphotoxin A production by T cells
+1129,intracellular cytokine staining assay measuring epitope specific macrophage inflammatory protein-1 alpha production by T cells
+1130,intracellular cytokine staining assay measuring epitope specific macrophage inflammatory protein-1 gamma production by T cells
+1131,intracellular cytokine staining assay measuring epitope specific monocyte chemotactic protein-1 production by T cells
+1132,intracellular cytokine staining assay measuring epitope specific transforming growth factor-beta production by T cells
+1133,intracellular cytokine staining assay measuring epitope specific tumor necrosis factor (ligand) superfamily member 11 production by T cells
+1134,intracellular cytokine staining assay measuring epitope specific tumor necrosis factor alpha production by T cells
+1135,intracellular cytokine staining assay measuring epitope specific tumor necrosis factor superfamily cytokine production by T cells
+1136,intracellular cytokine staining assay measuring epitope specific vascular endothelial growth factor production by T cells
+1137,intracellular electrophysiology recording assay
+1138,intracellular material detection assay measuring epitope specific granulysin release by T cells
+1139,intracellular material detection assay measuring epitope specific granzyme A release by T cells
+1140,intracellular material detection assay measuring epitope specific perforin release
+1141,intracellular material detection measuring epitope specific granzyme B release by T cells
+1142,intraoperative venous blood PTH assay
+1143,ionized arterial blood calcium assay
+1144,ionized calcium assay
+1145,ionized venous blood calcium assay
+1146,ionized venous blood ionized calcium assay
+1147,iron assay
+1148,iron concentration assay
+1149,isocitrate dehydrogenase activity level assay
+1150,isoform sequencing
+1151,kethoxal structure mapping assay
+1152,killer cell immunoglobulin-like receptor typing assay
+1153,kinase inhibitor assay
+1154,lactate dehydrogenase activity level assay
+1155,lactate dehydrogenase complex assay
+1156,landmark transcript profiling assay
+1157,leptin assay
+1158,leptin concentration assay
+1159,leukocyte count assay
+1160,light microscopy assay
+1161,lightsheet fluorescence microscopy assay
+1162,limb coordination assessment
+1163,limits of stability assessment
+1164,lipid panel reflex direct venous blood cholesterol assay
+1165,lipid panel reflex direct venous blood high density lipoprotein assay
+1166,lipid panel reflex direct venous blood low density lipoprotein assay
+1167,lipid panel reflex direct venous blood triglyceride assay
+1168,lipid panel venous blood cholesterol assay
+1169,lipid panel venous blood high density lipoprotein assay
+1170,lipid panel venous blood low density lipoprotein assay
+1171,lipid panel venous blood triglyceride assay
+1172,lipid profiling assay
+1173,lipoprotein concentration assay
+1174,liquid chromatography mass spectrometry assay
+1175,liquid chromatography-tandem mass spectrometry
+1176,liver evaluation venous blood alanine aminotransferase assay
+1177,liver evaluation venous blood albumin assay
+1178,liver evaluation venous blood bilirubin assay
+1179,liver evaluation venous blood globulin assay
+1180,liver evaluation venous blood human alkaline phosphatase assay
+1181,liver evaluation venous blood human aspartate aminotransferase assay
+1182,liver evaluation venous blood protein assay
+1183,liver fibrosis (NAFLD) venous blood platelet count assay
+1184,liver fibrosis (chronic viral hepatitis) venous blood platelet count assay
+1185,liver function venous blood alanine aminotransferase assay
+1186,liver function venous blood albumin assay
+1187,liver function venous blood bilirubin assay
+1188,liver function venous blood human alkaline phosphatase assay
+1189,liver function venous blood human aspartate aminotransferase assay
+1190,liver function venous blood protein assay
+1191,liver injury venous blood alanine aminotransferase assay
+1192,liver injury venous blood bilirubin assay
+1193,liver injury venous blood human alkaline phosphatase assay
+1194,liver injury venous blood human aspartate aminotransferase assay
+1195,local field potential recording
+1196,longitudinal mass measurement assay
+1197,low-density lipoprotein cholesterol assay
+1198,low-density lipoprotein cholesterol concentration assay
+1199,low-density lipoprotein concentration assay
+1200,lower limb coordination assessment
+1201,lung assay
+1202,lung microbiology assay
+1203,luteinizing hormone assay
+1204,luteinizing hormone concentration assay
+1205,lymphocyte assay
+1206,lymphocyte count assay
+1207,lymphocyte percentage assay
+1208,macrophage assay
+1209,macrophage count assay
+1210,magnesium cation assay
+1211,magnetic resonance imaging assay
+1212,major histocompatibility typing assay
+1213,malaria rapid diagnosis assay
+1214,mammalian 2-hybrid assay
+1215,manual differential bodily fluid basophil count assay
+1216,manual differential bodily fluid eosinophil count assay
+1217,manual differential bodily fluid lymphocyte count assay
+1218,manual differential bodily fluid macrophage count assay
+1219,manual differential bodily fluid mesothelial cell count assay
+1220,manual differential bodily fluid monocyte count assay
+1221,manual differential bodily fluid segmented neutrophil count assay
+1222,manual hematocrit assay
+1223,mapping RNA-genome interactions assay
+1224,mass measurement assay
+1225,mass spectrometry assay
+1226,mass spectrometry assay measuring MHC ligand processing and presentation
+1227,mass spectrometry assay measuring MHC ligand processing and presentation of MHC ligands eluted from cellular MHC
+1228,mass spectrometry assay measuring MHC ligand processing and presentation of MHC ligands eluted from secreted MHC
+1229,mass spectrometry assay measuring binding of a B cell epitope:antibody complex
+1230,mass spectrometry-based protein state assay
+1231,massively parallel reporter assay
+1232,matrix assisted laser desorption ionization imaging mass spectrometry assay
+1233,mean cell hemoglobin assay
+1234,mean cell hemoglobin concentration assay
+1235,mean cell volume assay
+1236,mean platelet volume assay
+1237,measuring glucose concentration in blood serum assay
+1238,measuring neural activity in the caudate nucleus assay
+1239,megakaryocyte count assay
+1240,mesothelial cell count assay
+1241,metabolite profiling assay
+1242,metamyelocyte assay
+1243,metamyelocyte count assay
+1244,metamyelocyte percentage assay
+1245,metatranscriptome sequencing assay
+1246,methemoglobin assay
+1247,methemoglobin percentage assay
+1248,methidiumpropyl-EDTA-iron(II) footprinting assay
+1249,methylation-sensitive restriction enzyme sequencing assay
+1250,methylation-specific polymerase chain reaction assay
+1251,micro-C assay
+1252,microRNA profiling assay
+1253,microRNA profiling by array assay
+1254,microRNA profiling by high throughput sequencing assay
+1255,microarray ELISA measuring Chikungunya IgM antibody
+1256,microarray assay
+1257,microarray assay measuring Dengue IgM antibody
+1258,microarray assay measuring NS1
+1259,microarray assay measuring binding of a B cell epitope:antibody complex
+1260,microbiome protein expression profiling assay
+1261,micrococcal nuclease digestion followed by high throughput sequencing assay
+1262,micrococcal nuclease digestion followed by tiling array assay
+1263,microenvironment microarray assay
+1264,microscopy assay
+1265,microwestern meso-scale quantitative western blot assay
+1266,milk assay
+1267,mixed lymphocyte reaction assay
+1268,modified acid-fast stain microscopy assay
+1269,monocyte assay
+1270,monocyte count assay
+1271,monocyte percentage assay
+1272,monospecific T cell recognition assay measuring MHC ligand processing and presentation
+1273,mosaicism with repeat frameshift genetic sparse labeling
+1274,mosquito membrane feeding assay
+1275,multi-contact Hi-C assay
+1276,multi-unit recording
+1277,multiplex bead-based protein state immunoassay
+1278,multiplex real time polymerase chain reaction assay
+1279,multiplex real time reverse-transcription polymerase chain reaction assay
+1280,multiplexed error-robust fluorescence in situ hybridization assay
+1281,multiplexed fluorescent antibody imaging assay
+1282,multiplexed indexed T7 ChIP-seq assay
+1283,multiplexed ion beam imaging assay
+1284,muscle atrophy assessment
+1285,muscle weakness assessment
+1286,myelocyte assay
+1287,myelocyte count assay
+1288,nano-cap analysis of gene expression assay
+1289,nanodroplet processing in one pot for trace samples assay
+1290,nanospray desorption electrospray ionization assay
+1291,nasal aspirate microbiology assay
+1292,nasopharyngeal or oropharyngeal swab microbiology assay
+1293,nervous system functionality assessment
+1294,neuron morphology assay
+1295,neuron morphology reconstruction assay
+1296,neutrophil assay
+1297,neutrophil count assay
+1298,neutrophil percentage assay
+1299,nitrite assay
+1300,nitrite concentration assay
+1301,non-cardiac venous blood c-reactive protein assay
+1302,non-vented blood gas arterial blood bicarbonate assay
+1303,non-vented blood gas arterial blood carbon dioxide assay
+1304,non-vented blood gas arterial blood oxygen assay
+1305,northern blot assay
+1306,nose to finger assessment
+1307,nuclear ligation assay
+1308,nucleate erythrocyte count assay
+1309,nucleated erythrocyte percentage assay
+1310,nucleolus-associated domain sequencing assay
+1311,observational assessment of individual
+1312,optimal-IT rapid diagnostic test
+1313,organism detection assay
+1314,organism detection by PCR assay
+1315,organism detection by cross mating assay
+1316,organism detection by cytological chromosome examination assay
+1317,organism detection by isoenzyme electrophoresis assay
+1318,organism detection by morphological examination assay
+1319,organism detection by salinity tolerance assay
+1320,organism detection by size assay
+1321,organism detection by specific DNA hybridization assay
+1322,organism species detection assay
+1323,organismal body temperature measurement assay
+1324,osmolality assay
+1325,outside-out patch clamp assay
+1326,panel5 venous blood carbon dioxide assay
+1327,panel5 venous blood creatinine assay
+1328,panel5 venous blood potassium assay
+1329,panel5 venous blood sodium assay
+1330,parallel analysis of RNA structure assay
+1331,parasite detection assay
+1332,parasite detection by PCR assay
+1333,parasite species identification by PCR assay
+1334,patch clamp assay
+1335,pathogen detection assay
+1336,pathogen detection by Rapid Analyte Measurement Platform assay
+1337,pathogen detection by loop-mediated isothermal amplification assay
+1338,peak venous blood tobramycin assay
+1339,peptide mass fingerprinting assay
+1340,periodic acid-Schiff staining assay
+1341,phage display assay measuring binding of a B cell epitope:antibody complex
+1342,phage display binding assay
+1343,phage display binding assay measuring binding of a purified-MHC:ligand complex
+1344,phosphate ion assay
+1345,phosphate ion concentration assay
+1346,phospholipid assay
+1347,phospholipid concentration assay
+1348,physical examination of an organism
+1349,placental blood microbiology assay
+1350,plasma proteomics assay
+1351,plasmon resonance assay measuring binding of a B cell epitope:antibody complex
+1352,plasmon resonance assay measuring the dissociation constant [KD] of a T cell epitope:MHC:TCR complex
+1353,platelet assay
+1354,platelet count assay
+1355,pleural fluid microbiology assay
+1356,polyA-depleted RNA sequencing assay
+1357,polyA-selected RNA sequencing assay
+1358,polyA-site sequencing assay
+1359,polymerase chain reaction assay
+1360,pooled clone sequencing assay
+1361,position sense assessment
+1362,positive/negative ion switching metabolite profiling assay
+1363,positron emission tomography imaging assay
+1364,potassium(1+) assay
+1365,potassium(1+) concentration assay
+1366,precision nuclear run-on sequencing assay
+1367,progesterone assay
+1368,progesterone concentration assay
+1369,promoter activity detection by reporter gene assay
+1370,promoter activity detection by reporter gene assay measuring epitope specific interleukin-2 production by T cells
+1371,promyelocyte assay
+1372,prostate-specific antigen assay
+1373,protection from challenge in vivo intervention experiment
+1374,protein assay
+1375,protein expression profiling assay
+1376,protein localization assay
+1377,protein sequencing by tandem mass spectrometry assay
+1378,protein state assay
+1379,protein-protein interaction detection assay
+1380,proteomic profiling by array assay
+1381,prothrombin time assay
+1382,proximity extension assay
+1383,proximity ligation-assisted ChIP-seq
+1384,pseudovirus entry assay
+1385,pulse stable isotope labeling by amino acids in cell culture
+1386,pyrosequencing assay
+1387,quantitative venous blood IgA assay
+1388,quantitative venous blood IgG assay
+1389,quantitative venous blood IgM assay
+1390,quartz crystal microbalance assay
+1391,quartz crystal microbalance assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+1392,quenching assay measuring binding of a B cell epitope:antibody complex
+1393,quenching assay measuring the association constant [KA] of a B cell epitope:antibody complex
+1394,quenching assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+1395,quenching assay measuring the off rate [koff] of a B cell epitope:antibody complex
+1396,quenching assay measuring the on rate [kon] of a B cell epitope:antibody complex
+1397,rac-lactic acid assay
+1398,radio immuno assay
+1399,radio immuno assay measuring epitope specific interferon-gamma production by T cells
+1400,radioactivity detection
+1401,radioactivity detection assay measuring binding off rate [koff] to determine direct binding of a cell-lysate-MHC:ligand complex
+1402,radioactivity detection assay measuring competitive binding of a cell-bound-MHC:ligand complex
+1403,radioactivity detection assay measuring competitive binding of a purified-MHC:ligand complex
+1404,radioactivity detection assay measuring direct binding of a cell-bound-MHC:ligand complex
+1405,radioactivity detection assay measuring direct binding of a cell-lysate-MHC:ligand complex
+1406,radioactivity detection assay measuring direct binding of a purified-MHC:ligand complex
+1407,radioactivity detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a cell-bound-MHC:ligand complex
+1408,radioactivity detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a cell-lysate-MHC:ligand complex
+1409,radioactivity detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a purified-MHC:ligand complex
+1410,radioactivity detection assay measuring equilibrium dissociation constant [KD] to determine competitive binding of a purified-MHC:ligand complex approximated by IC50
+1411,radioactivity detection assay measuring half life to determine direct binding of a cell-bound-MHC:ligand complex
+1412,radioactivity detection assay measuring half life to determine direct binding of a cell-lysate-MHC:ligand complex
+1413,radioactivity detection assay measuring half life to determine direct binding of a purified-MHC:ligand complex
+1414,radioactivity detection assay measuring half maximal effective concentration [EC50] to determine direct binding of a cell-lysate-MHC:ligand complex
+1415,radioactivity detection assay measuring half maximal inhibitory concentration [IC50] to determine competitive binding of a cell-bound-MHC:ligand complex
+1416,radioactivity detection assay measuring half maximal inhibitory concentration [IC50] to determine competitive binding of a purified-MHC:ligand complex
+1417,random electrolytes urine potassium assay
+1418,random electrolytes urine sodium assay
+1419,random venous blood amikacin assay
+1420,random venous blood tobramycin assay
+1421,random venous blood vancomycin assay
+1422,rapid alternating hands assessment
+1423,rapid plasma reagin test
+1424,real time polymerase chain reaction assay
+1425,real time reverse-transcription polymerase chain reaction assay
+1426,reconstitution assay
+1427,reduced representation bisulfite sequencing assay
+1428,reporter cell line analyte detection bioassay
+1429,reporter gene assay
+1430,restriction fragment length polymorphism assay
+1431,reticulocyte assay
+1432,reticulocyte count assay
+1433,reticulocyte percentage assay
+1434,reverse phase protein array profiling assay
+1435,reverse transcription polymerase chain reaction assay
+1436,ribonuclease activity level assay
+1437,ribosomal RNA-depleted RNA sequencing assay
+1438,ribosomal profiling by sequencing assay
+1439,saliva assay
+1440,segmented neutrophil of bone marrow count assay
+1441,self reported handedness assessment
+1442,self-transcribing active regulatory region sequencing assay
+1443,sequencing assay
+1444,sequential fluorescence in-situ hybridization assay
+1445,serial analysis of gene expression assay
+1446,serum anti-Epstein-Barr virus antibody level assay
+1447,serum anti-cytomegalovirus antibody level assay
+1448,serum neutralization of viral infectivity assay
+1449,shotgun bisulfite-seq assay
+1450,single cell B cell receptor repertoire sequencing assay
+1451,single cell Hi-C assay
+1452,single cell T cell receptor repertoire sequencing assay
+1453,single cell combinatorial indexing Hi-C assay
+1454,single cell combinatorial indexing assay for transposase-accessessable chromatin using sequencing
+1455,single molecule fluorescence in situ hybridization
+1456,single nucleus Hi-C assay
+1457,single-cell ATAC-seq
+1458,single-cell RNA sequencing assay
+1459,single-cell combinatorial indexing RNA sequencing assay
+1460,single-nucleotide-resolution nucleic acid structure mapping assay
+1461,single-nucleotide-resolution nucleic acid structure mapping assay using chemical probing
+1462,single-nucleotide-resolution nucleic acid structure mapping assay using enzymatic probing
+1463,single-nucleus ATAC-seq
+1464,single-nucleus RNA sequencing assay
+1465,single-nucleus chromatin accessibility and mRNA expression sequencing assay
+1466,single-unit recording
+1467,single-value binding of antibody with reporter to antigen assay
+1468,sitting posture assessment
+1469,skin of body microbiology assay
+1470,slide-seq assay
+1471,small RNA sequencing assay
+1472,small-angle scattering 3D molecular structure determination assay
+1473,small-angle scattering assay determining the 3D structure of a B cell epitope:antibody complex
+1474,sodium(1+) assay
+1475,sodium(1+) concentration assay
+1476,sorbitol dehydrogenase activity level assay
+1477,spectrolyse heparin antifactor-Xa assay
+1478,speech test assessment
+1479,split-pool recognition of interactions and tag extension assay
+1480,split-ubiquitin assay
+1481,spontaneous speech assessment
+1482,stance feet apart assessment
+1483,"stance feet apart assessment, with eyes closed"
+1484,stance feet together assessment
+1485,"stance feet together assessment, with eyes closed"
+1486,stance on one foot assessment
+1487,structural analysis by paired-end tag sequencing assay
+1488,subcellular protein immunohistochemistry assay
+1489,subcellular protein localization assay
+1490,substance detection assay
+1491,surface HBV antibody assay
+1492,surface plasmon resonance assay measuring the association constant [KA] of a B cell epitope:antibody complex
+1493,surface plasmon resonance assay measuring the dissociation constant [KD] of a B cell epitope:antibody complex
+1494,surface plasmon resonance assay measuring the off rate [koff] of a B cell epitope:antibody complex
+1495,surface plasmon resonance assay measuring the on rate [kon] of a B cell epitope:antibody complex
+1496,surface plasmon resonance binding assay
+1497,survival assessment assay
+1498,systematic evolution of ligands by exponential enrichment assay
+1499,tandem mass spectrometry assay
+1500,tandem mass tag mass spectrometry assay
+1501,tandem stance assessment
+1502,tandem walk assessment
+1503,"targeted, drug-modulated, mass spectrometry-based protein phoshporylation-state assay"
+1504,taxonomic diversity assessment by targeted gene survey
+1505,temperature measurement assay
+1506,testosterone assay
+1507,testosterone concentration assay
+1508,thrombin time assay
+1509,thyroid stimulating hormone assay
+1510,thyroid stimulating hormone concentration assay
+1511,thyroxine assay
+1512,tissue-based protein localization assay
+1513,tobramycin assay
+1514,tolerance induction intervention experiment
+1515,tongue atrophy assessment
+1516,topical application insecticide resistance bioassay
+1517,total bilirubin concentration assay
+1518,total bodily fluid protein assay
+1519,total lymphocyte count assay
+1520,total lymphocyte percentage assay
+1521,total thyroxine concentration assay
+1522,total venous blood IgE assay
+1523,total venous blood PSA assay
+1524,total venous blood T3 assay
+1525,total venous blood calcium assay
+1526,total venous blood cholesterol assay
+1527,total venous blood homocysteine assay
+1528,total venous blood protein assay
+1529,transcript analysis by paired-end tag sequencing assay
+1530,transcript analysis by single-end sequencing assay
+1531,transcript expression location detection by hybridization chain reaction assay
+1532,transcript leader sequencing assay
+1533,transcription cofactor activity region identification by ChIP-Seq assay
+1534,transcription factor binding site assay
+1535,transcription factor binding site identification by ChIP-Seq assay
+1536,transcription factor binding site identification by ChIP-chip assay
+1537,transcription profiling assay
+1538,transcription profiling by MPSS assay
+1539,transcription profiling by RT-PCR assay
+1540,transcription profiling by array assay
+1541,transcription profiling by tiling array assay
+1542,transcription start site mapping by primer extension assay
+1543,transferrin assay
+1544,translation profiling assay
+1545,translation-associated transcript leader sequencing assay
+1546,transposase-mediated analysis of chromatin looping assay
+1547,treatment intervention experiment
+1548,triglyceride assay
+1549,triglyceride concentration assay
+1550,tritiated thymidine incorporation assay
+1551,trough venous blood tobramycin assay
+1552,trough venous blood vancomycin assay
+1553,tube 1 count cerebrospinal fluid cell count assay
+1554,tube 4 count cerebrospinal fluid cell count assay
+1555,tumor grading
+1556,two electrode voltage clamp assay
+1557,tyramide signal amplification sequencing assay
+1558,umbilical cord blood assay
+1559,umbilical cord blood microbiology assay
+1560,upper limb coordination assessment
+1561,upright stability assessment
+1562,uric acid assay
+1563,urine assay
+1564,urine creatinine assay
+1565,urine microbiology assay
+1566,urine osmolality assay
+1567,urine protein assay
+1568,urine sodium assay
+1569,vancomycin assay
+1570,venereal disease research laboratory test
+1571,venous blood 25-hydroxyvitamin D2 assay
+1572,venous blood Ceruloplasmin assay
+1573,venous blood GGT assay
+1574,venous blood LDH assay
+1575,venous blood T3 assay
+1576,venous blood T4 assay
+1577,venous blood WBC count assay
+1578,venous blood albumin assay
+1579,venous blood ammonia assay
+1580,venous blood beta hydroxybutric acid assay
+1581,venous blood beta hydroxybutryic acid assay
+1582,venous blood beta-2-microglobulin assay
+1583,venous blood bicarbonate assay
+1584,venous blood calcium assay
+1585,venous blood carbon dioxide assay
+1586,venous blood chloride assay
+1587,venous blood cortisol assay
+1588,venous blood creatine kinase MB assay
+1589,venous blood creatine kinase assay
+1590,venous blood creatinine assay
+1591,venous blood dehydroepiandrosterone assay
+1592,venous blood digoxin assay
+1593,venous blood erythropoietin assay
+1594,venous blood ferritin assay
+1595,venous blood fibrinogen assay
+1596,venous blood folic acid assay
+1597,venous blood glucose assay
+1598,venous blood haptoglobin assay
+1599,venous blood hematocrit assay
+1600,venous blood hemoglobin A1c assay
+1601,venous blood hemoglobin assay
+1602,venous blood ionized calcium assay
+1603,venous blood iron assay
+1604,venous blood lactate dehydrogenase assay
+1605,venous blood lactic acid assay
+1606,venous blood magnesium assay
+1607,venous blood megakaryocyte count assay
+1608,venous blood microbiology assay
+1609,venous blood mycophenolic acid assay
+1610,venous blood nucleated RBC count assay
+1611,venous blood osmolality assay
+1612,venous blood oxygen assay
+1613,venous blood parathyroid hormone assay
+1614,venous blood phosphate assay
+1615,venous blood potassium assay
+1616,venous blood prealbunin assay
+1617,venous blood prostate specific antigen assay
+1618,venous blood reticulocyte count assay
+1619,venous blood sodium assay
+1620,venous blood tacrolimus assay
+1621,venous blood temperature assay
+1622,venous blood thyroid stimulating hormone assay
+1623,venous blood tobramycin assay
+1624,venous blood transferrin assay
+1625,venous blood triglyceride assay
+1626,venous blood uric acid assay
+1627,venous blood valproic acid assay
+1628,vented blood gas arterial blood bicarbonate assay
+1629,vented blood gas arterial blood carbon dioxide assay
+1630,vented blood gas arterial blood oxygen assay
+1631,very-low-density lipoprotein concentration assay
+1632,vibratory sense assessment
+1633,viral hemagglutination assay
+1634,viral hemagglutination inhibition assay
+1635,viral hemagglutination inhibition assay measuring binding of a B cell epitope:antibody complex
+1636,vitamin B12 and Folate venous blood folic acid assay
+1637,voltage clamp assay
+1638,volume measurement assay
+1639,western blot assay
+1640,whole genome sequencing assay
+1641,whole metagenome sequencing assay
+1642,whole virome sequencing assay
+1643,whole-cell patch clamp assay
+1644,widefield microscopy assay
+1645,yeast 2-hybrid assay
+1646,yeast one-hybrid assay

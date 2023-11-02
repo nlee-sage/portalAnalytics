@@ -1,0 +1,612 @@
+0
+.nib
+2bit
+3D-1D scoring matrix format
+A2M
+AB1
+ABCD format
+ABI
+ACE
+AGP
+AMBER frcmod
+AMBER off
+AMBER top
+ARB
+ASN.1 sequence format
+AVI
+Alignment format
+Alignment format (XML)
+Alignment format (pair only)
+Alignment format (text)
+Amino acid index format
+Annotated text format
+Article format
+BAI
+BAM
+BCF
+BCML
+BDML
+BEAST
+BED
+BEL
+BIOM format
+BLAST XML results format
+BLAST XML v2 results format
+BLAST results
+BLC
+BMP
+BNGL
+BSML
+BTrack
+BcForms
+Bibliographic reference format
+BinPos
+Binary format
+BioC
+BioJSON (BioXSD)
+BioJSON (Jalview)
+BioNLP Shared Task format
+BioPAX
+BioXSD (XML)
+BioYAML
+Biodiversity data format
+Biological pathway or network format
+Biological pathway or network report format
+BpForms
+CAF
+CATH domain report format
+CHAIN
+CHARMM rtf
+CHP
+CIGAR format
+COMBINE OMEX
+CONTIG
+CRAM
+CSV
+CT
+CWL
+CellML
+Chado-XML
+Chemical data format
+Chemical formula format
+CiteXplore-all
+CiteXplore-core
+ClustalW dendrogram
+ClustalW format
+Configuration file format
+CopasiML
+Cytoband format
+Cytoscape input file format
+DAS format
+DASGFF
+DIALIGN format
+DICOM format
+DSV
+Data index format
+Database hits (sequence) format
+Dirichlet distribution format
+Docker image format
+Document format
+Dot-bracket format
+EBI Application Result XML
+ELAND format
+EMBL feature location
+EMBL format
+EMBL format (XML)
+EMBL-HTML
+EMBL-like (XML)
+EMBL-like (text)
+EMBL-like format
+EMBLXML
+EMBOSS repeat
+EMBOSS sequence pattern
+EMBOSS simple format
+ENCODE broad peak format
+ENCODE narrow peak format
+ENCODE peak format
+EPS
+EXP
+Ensembl variation file format
+Enzyme kinetics report format
+Experiment annotation format
+FASTA
+FASTA search results format
+FASTA-HTML
+FASTA-aln
+FASTA-like
+FASTA-like (text)
+FASTG
+FASTQ
+FASTQ-illumina
+FASTQ-like format
+FASTQ-like format (text)
+FASTQ-sanger
+FASTQ-solexa
+FF parameter format
+Format (by type of data)
+GCDML
+GCG
+GCG MSF
+GCG format variant
+GCT/Res format
+GDE
+GEN
+GFA 1
+GFA 2
+GFF
+GFF2
+GFF2-seq
+GFF3
+GFF3-seq
+GIF
+GML
+GPML
+GPR
+GROMACS itp
+GROMACS top
+GSuite
+GTF
+GTrack
+GVF
+GZIP format
+GelML
+Gemini SQLite format
+GenBank format
+GenBank-HTML
+GenBank-like format
+GenBank-like format (text)
+Gene annotation format
+Gene expression report format
+Graph format
+HDF
+HDF5
+HET group dictionary entry format
+HMM emission and transition counts format
+HMMER Dirichlet prior
+HMMER emission and transition
+HMMER format
+HMMER profile alignment (HMM versus sequences)
+HMMER profile alignment (sequences versus HMMs)
+HMMER-aln
+HMMER2
+HMMER3
+HSAML
+HTML
+Hidden Markov model format
+IDAT
+ISA-TAB
+Image format
+InChI
+InChIKey
+Individual genetic data format
+InterPro hits format
+InterPro match table format
+InterPro protein view report format
+InterProScan XML
+JASPAR format
+JCAMP-DX
+JPG
+JSON
+JSON-LD
+K-mer countgraph
+KGML
+KNIME datatable format
+KRSS2 Syntax
+LAV
+LSM
+Linked data format
+LocARNA PP
+Loom
+MAF
+MAGE-ML
+MAGE-TAB
+MAP
+MAT
+MATLAB script
+MCPD
+MEME Dirichlet prior
+MEME background Markov model
+MGF
+MHTML
+MPEG-4
+MSAML
+MSF
+MTX
+Manchester OWL Syntax
+Map format
+Mascot .dat file
+Mass spectrometry data format
+Matrix format
+MaxQuant APL peaklist format
+Medline Display Format
+Microarray experiment data format
+Mol2
+Molfile
+N-Quads
+N-Triples
+NCBI format
+NET
+NIFTI format
+NLP annotation format
+NLP corpus format
+NLP format
+NMR data format
+NMReDATA
+NeXML
+NeuroML
+Nexus format
+Notation3
+Nucleic acid features (primers) format
+Nucleic acid features (restriction sites) format
+NumPy format
+OBO
+OBO format
+OBO-XML
+OME-TIFF
+OSCAR format
+OWL Functional Syntax
+OWL format
+OWL/XML
+ObjTables
+Ontology format
+Open Annotation format
+OrthoXML
+PCAzip
+PDB
+PDB database entry format
+PDBML
+PDF
+PED
+PED/MAP
+PHD
+PHYLIP format
+PHYLIP sequential
+PMML
+PNG
+PO
+PRIDE XML
+PS
+PSDML
+PSF
+PSI MI TAB (MITAB)
+PSI MI XML (MIF)
+PSI-PAR
+PSL
+Pcons report format
+Pearson format
+Perl script
+Phylip character frequencies format
+Phylip cliques format
+Phylip continuous quantitative characters
+Phylip discrete states format
+Phylip distance matrix
+Phylip format variant
+Phylip tree distance format
+Phylip tree format
+Phylip tree raw
+Phylogenetic character data format
+Phylogenetic continuous quantitative character format
+Phylogenetic discrete states format
+Phylogenetic tree format
+Phylogenetic tree format (XML)
+Phylogenetic tree format (text)
+Phylogenetic tree report (cliques) format
+Phylogenetic tree report (invariants) format
+Phylogenetic tree report (tree distances) format
+Pileup
+PlasMapper TextMap
+Primer3 primer
+ProQ report format
+Protein domain classification format
+Protein family report format
+Protein interaction format
+Protein report format
+Protein secondary structure format
+Protein structure report (quality evaluation) format
+PubAnnotation format
+PubMed XML
+PubMed citation
+PubTator format
+Python script
+QMAP
+Query language
+R file format
+R markdown
+R script
+RDF format
+RDF/XML
+REBASE restriction sites
+RNA annotation format
+RNA secondary structure format
+RNAML
+RPKM
+RSF
+RST
+Raw CATH domain classification format
+Raw SCOP domain classification format
+Raw microarray data format
+Raw sequence format
+Relaxed PHYLIP Interleaved
+Relaxed PHYLIP Sequential
+SAM
+SAMPLE file format
+SBGN-ML
+SBML
+SBOL
+SBRML
+SBtab
+SCF
+SDF
+SED-ML
+SEQUEST .out file
+SFF
+SMILES
+SPARQL
+SPSS
+SQL
+SQLite format
+SRA format
+SRF
+SS
+STRING entry format (XML)
+SVG
+Sanger inverted repeats
+SeqXML
+Sequence annotation track format
+Sequence assembly format
+Sequence assembly format (text)
+Sequence cluster format
+Sequence cluster format (nucleic acid)
+Sequence cluster format (protein)
+Sequence distance matrix format
+Sequence feature annotation format
+Sequence feature table format
+Sequence feature table format (XML)
+Sequence feature table format (text)
+Sequence features (repeats) format
+Sequence motif format
+Sequence profile format
+Sequence quality report format (text)
+Sequence range format
+Sequence record format
+Sequence record format (XML)
+Sequence record format (text)
+Sequence trace format
+Sequence variation annotation format
+Sequence-MEME profile alignment
+Sequence-profile alignment format
+Sequin format
+SimTools repertoire file format
+Smith-Waterman format
+Staden experiment format
+Staden format
+Stereolithography format
+Stockholm format
+T-Coffee format
+TAR format
+TIDE TXT
+TIFF
+TNG
+TSV
+Tabix index file format
+Taverna workflow format
+Tertiary structure format
+Text mining report format
+Textual format
+Texture file format
+Thermo RAW
+Topology format
+TraML
+TrackDB
+Trajectory format
+Trajectory format (binary)
+Trajectory format (text)
+TreeBASE format
+TreeCon format
+TreeCon-seq
+TreeFam format
+Turtle
+U3D
+UniParc XML
+UniProt-like (text)
+UniProtKB RDF
+UniProtKB XML
+UniProtKB format
+UniRef XML
+VCF
+VDB
+Vega
+Vega-lite
+Vienna local RNA secondary structure format
+VisML
+WEGO
+WIFF format
+WIG
+WMV
+Waters RAW
+Workflow format
+X!Tandem XML
+XMFA
+XML
+XQuery
+XTC
+XYZ
+YAML
+ZIP format
+ZTR
+Zarr
+Zstandard format
+aaindex
+acedb
+affymetrix
+affymetrix-exp
+afg
+ambiguous
+arff
+axt
+bed12
+bed6
+bedgraph
+bedstrict
+bgzip
+bigBed
+bigWig
+cdsxml
+cel
+chrominfo
+codata
+completely unambiguous
+completely unambiguous pure
+completely unambiguous pure dna
+completely unambiguous pure nucleotide
+completely unambiguous pure protein
+completely unambiguous pure rna sequence
+consensus
+consensusXML
+csfasta
+customtrack
+daf
+dasdna
+dat
+dbGaP format
+dbid
+debug
+debug-feat
+debug-seq
+dhf
+dna
+docx
+dssp
+dta
+ebwt
+ebwtl
+est2genome format
+featureXML
+findkm
+fitch program
+genePred
+geneseq
+genpept
+giFASTA format
+gxformat2
+hennig86
+hssp
+iHOP format
+ibd
+idXML
+ig
+igstrict
+im
+imzML metadata file
+insdxml
+jackknifer
+jackknifernon
+latex
+lhf
+markx0
+markx0 variant
+markx1
+markx10
+markx2
+markx3
+mase format
+match
+mdcrd
+medline
+mega
+mega variant
+mega-seq
+meganon
+meme-motif
+mf
+mhd
+mirGFF3
+mira
+mmCIF
+msh
+mspcrunch
+mzData
+mzIdentML
+mzML
+mzQuantML
+mzTab
+mzXML
+nbrf/pir
+netCDF
+newick
+nexus-seq
+nexusnon
+nii
+nmrML
+nrrd
+nucleotide
+pair
+pbm
+pcd
+pcx
+pdbatom
+pdbatomnuc
+pdbseqres
+pdbseqresnuc
+pepXML
+pgSnp
+pgm
+phyloXML
+pickle
+pkl
+plain text format (unformatted)
+pmc
+ppm
+pptx
+proBAM
+proBED
+prosite-pattern
+prosite-profile
+protXML
+protein
+psd
+pure
+pure dna
+pure nucleotide
+pure protein
+pure rna
+qcML
+qual
+qual454
+qualillumina
+qualsolexa
+qualsolid
+quicktandem
+rast
+raw
+rcc
+refseqp
+restover format
+restrict format
+rgb
+rna
+scores format
+selex
+sif
+smarts
+snpeffdb
+spML
+srs format
+srspair
+strider format
+tabix
+trr
+unambiguous pure
+unambiguous pure dna
+unambiguous pure nucleotide
+unambiguous pure protein
+unambiguous pure rna sequence
+unambiguous sequence
+uniprotkb-like format
+unpure
+xbm
+xgmml
+xls
+xlsx
+xpm
+xsd
