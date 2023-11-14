@@ -2,3 +2,4 @@
 .DS_Store
 data/cleaned-data-20231031.csv
 data/snowflakeData.csv
+.env

@@ -2,6 +2,10 @@
 
 This repository is my attempt to perform some analysis on the merged raw data from the portals. My goal was to try and find some correlations between variables in the hope of creating some derived or automated annotations.
 
+## Setup
+1. Rename the `.env-template` -> `.env`
+2. Update the `.env` file with your information.
+
 ## Data
 
 `snowflakeData.csv` was taken from the `SAGE.PORTAL_RAW.PORTAL_MERGE` on October 31st, 2023.
@@ -85,3 +89,10 @@ Most of the files are "BAM" or "gz".
 
 My initial EDA shows that the file formats vary across the assay types which seems a little odd to me. I think splitting up "RAW" vs. "Processed/Analysis" types would help differentiate which files are used in different processed.
 ![ATAC-seq file types](./imgs/file-format-ATAC-seq.png)
+
+# References
+
+[Snowflake Python SDK](https://docs.snowflake.com/en/developer-guide/python-connector/python-connector)
+
+- Programmatic access: [Link](https://docs.snowflake.com/en/developer-guide/python-connector/python-connector-api#label-account-format-info)
+
