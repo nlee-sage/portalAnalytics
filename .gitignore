@@ -3,3 +3,4 @@
 data/cleaned-data-20231031.csv
 data/snowflakeData.csv
 .env
+**/*.csv
