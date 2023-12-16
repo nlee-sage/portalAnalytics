@@ -2,6 +2,19 @@
 
 This repository is my attempt to perform some analysis on the merged raw data from the portals. My goal was to try and find some correlations between variables in the hope of creating some derived or automated annotations.
 
+## To Do
+
+- [ ] Develop decision tree model
+- [ ] Implement [Hydra]() in project for experimentation
+- [ ] Explore mutal information between features
+  - [ ] Explore connection between file format and assay because assay might constrain what file formats are available
+  - [ ] Connectino between assay and study
+  - [ ] Connection between file name and resource type
+  - [ ] Between Assay and datatype
+  - [ ] resource type & datasubtype
+Cleaning
+- [ ] Replace acronyms with full spellings for more features
+
 ## Setup
 
 1. Rename the `.env-template` -> `.env`

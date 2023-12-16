@@ -24,6 +24,7 @@
 
 import json
 import logging
+import numpy as np
 
 
 class Params:
@@ -99,3 +100,21 @@ def save_dict_to_json(d, json_path):
         # We need to convert the values to float for json (it doesn't accept np.array, np.float, )
         d = {k: float(v) for k, v in d.items()}
         json.dump(d, f, indent=4)
+
+
+def create_datasets(dataset, train_percent: float = 0.6, val_percent: float = 0.2):
+    # split dataset into train, validation, test sets
+    # test set is remaining amount
+    train, val, test = np.split(
+        dataset.sample(frac=1, random_state=42),
+        [
+            int(train_percent * len(dataset)),
+            int((train_percent + val_percent) * len(dataset)),
+        ],
+    )
+
+    # train.to_csv(f"../data/training-set-{today}", index=False)
+    # val.to_csv(f"../data/val-set-{today}", index=False)
+    # test.to_csv(f"../data/test-set-{today}", index=False)
+
+    return train, val, test
